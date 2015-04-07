@@ -435,7 +435,7 @@
         </div>
         <p class="trade-more">......</p>
         <p class="trade-mores">更多解决方案持续更新中</p>
-        <a class="trade-apply" href="http://www.weiba66.com/apply.html?from_site=trade"></a>
+        <a class="trade-apply" href="http://www.weiba66.com/apply.php?from_site=trade"></a>
     </div>
     <script>
         $(".trade-list li").on("mouseenter", function () {
@@ -836,9 +836,9 @@
                                                                                 </ul>
                     <div class="contact" id="contact_foot">
                                     <p>城市加盟：
-                                                    <span>沈经理<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355906302&amp;site=qq&amp;menu=yes" target="_blank" onClick="ga('send', 'event', 'FooterMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355906302:41" alt="给我留言"></a>(15988128591)</span>
-                                                    <span>余经理<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355906300&amp;site=qq&amp;menu=yes" target="_blank" onClick="ga('send', 'event', 'FooterMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355906300:41" alt="给我留言"></a>(18667006819)</span>
-                                                    <span>朱经理<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355742809&amp;site=qq&amp;menu=yes" target="_blank" onClick="ga('send', 'event', 'FooterMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355742809:41" alt="给我留言"></a>(15867110115)</span>
+                                                    <span>刘经理<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=745718634&amp;site=qq&amp;menu=yes" target="_blank" onClick="ga('send', 'event', 'FooterMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:745718634:41" alt="给我留言"></a>(15988128591)</span>
+                                                    <span>邱经理<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=656414432&amp;site=qq&amp;menu=yes" target="_blank" onClick="ga('send', 'event', 'FooterMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:656414432:41" alt="给我留言"></a>(18667006819)</span>
+                                                    <span>王经理<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=751239183&amp;site=qq&amp;menu=yes" target="_blank" onClick="ga('send', 'event', 'FooterMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:751239183:41" alt="给我留言"></a>(15867110115)</span>
                                                     <span>刘经理<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355824323&amp;site=qq&amp;menu=yes" target="_blank" onClick="ga('send', 'event', 'FooterMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355824323:41" alt="给我留言"></a>(18657113002)</span>
                                             </p>
                                                     <p id="kefu_contact"> 售前咨询：
@@ -868,7 +868,7 @@
 </div>
 <div class="help_box" style="">
 	<a href="javascript:;" class="float_qq" data-show="1"></a>
-	<a class="free_go" href="/apply.html" target="_blank">免费试用</a>
+	<a class="free_go" href="/apply.php" target="_blank">免费试用</a>
     <a class="zixun" href="javascript:;" id="help_qq1">售前咨询</a>
     <a class="join"href="javascript:;" id="help_qq2">城市加盟</a>
 	<b class="tels">咨询热线<br/>400-008-6556</b>
@@ -887,9 +887,9 @@
 			<div class="qq_list join_bg" id="qq_list2" style="display: none;"> <a href="javascript:;" class="close_qq" id="close_qq2"></a>
         <h4>城市加盟</h4>
         <div class="area_qq">
-			                             <p><span>沈经理</span><b>(15988128591)</b><a href="http://wpa.qq.com/msgrd?v=3&uin=2355906302&site=qq&menu=yes" target="_blank" onClick="ga('send', 'event', 'FloatMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355906302:41" alt="给我留言"></a></p>
-                                                    <p><span>余经理</span><b>(18667006819)</b><a href="http://wpa.qq.com/msgrd?v=3&uin=2355906300&site=qq&menu=yes" target="_blank" onClick="ga('send', 'event', 'FloatMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355906300:41" alt="给我留言"></a></p>
-                                                    <p><span>朱经理</span><b>(15867110115)</b><a href="http://wpa.qq.com/msgrd?v=3&uin=2355742809&site=qq&menu=yes" target="_blank" onClick="ga('send', 'event', 'FloatMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355742809:41" alt="给我留言"></a></p>
+			                             <p><span>沈经理</span><b>(15988128591)</b><a href="http://wpa.qq.com/msgrd?v=3&uin=745718634&site=qq&menu=yes" target="_blank" onClick="ga('send', 'event', 'FloatMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:745718634:41" alt="给我留言"></a></p>
+                                                    <p><span>余经理</span><b>(18667006819)</b><a href="http://wpa.qq.com/msgrd?v=3&uin=656414432&site=qq&menu=yes" target="_blank" onClick="ga('send', 'event', 'FloatMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:656414432:41" alt="给我留言"></a></p>
+                                                    <p><span>朱经理</span><b>(15867110115)</b><a href="http://wpa.qq.com/msgrd?v=3&uin=751239183&site=qq&menu=yes" target="_blank" onClick="ga('send', 'event', 'FloatMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:751239183:41" alt="给我留言"></a></p>
                                                     <p><span>刘经理</span><b>(18657113002)</b><a href="http://wpa.qq.com/msgrd?v=3&uin=2355824323&site=qq&menu=yes" target="_blank" onClick="ga('send', 'event', 'FloatMerchants', 'ProxyQQ','招商');"><img border="0" src="http://wpa.qq.com/pa?p=2:2355824323:41" alt="给我留言"></a></p>
                                 </div>
     </div>
