@@ -1,7 +1,21 @@
 <script>
     $(function(){
-        alert(111);
+        var url = window.location.href;
+        ss = url.substr(24, url.length);
+
     });
+</script>
+<script>
+    $(function(){
+        $('#nav>ul>li').hover(function(){
+
+            $(this).addClass('active');
+            $(this).find('.sun_list').show();
+        },function(){
+            $(this).removeClass('active');
+            $(this).find('.sun_list').hide();
+        });
+    })
 </script>
 <div class="header">
     <div class="head_bg">
@@ -78,14 +92,3 @@
         </div>
     </div>
 </div>
-<script>
-$(function(){
-    $('#nav>ul>li').hover(function(){
-        $(this).addClass('active')
-            $(this).find('.sun_list').show();
-        },function(){
-        $(this).removeClass('active')
-            $(this).find('.sun_list').hide();
-        });
-})
-</script>
