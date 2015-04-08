@@ -8,11 +8,11 @@
                 <ul class="clearfix">
                                                                                                                             <li class="on"><a href="/">首页</a>
                                                         							</li>
-                                                                                    <li ><a href="/products.html">产品</a>
+                                                                                    <li ><a href="products.php">产品</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/products.html">微信公众平台</a></li>
-                                                                                    <li><a href="/topics/fxb.html">人人店微分销</a></li>
+                                                                                    <li><a href="products.php">微信公众平台</a></li>
+                                                                                    <li><a href="topics/fxb.php">人人店微分销</a></li>
                                                                                     <li><a href="/trade/index.html">八大行业方案</a></li>
                                                                                     <li><a href="http://www.mayun520.com">支付宝平台</a></li>
                                                                                     <li><a href="/topics/zhidahao.html">百度直达号</a></li>
