@@ -1,8 +1,14 @@
 <script>
     $(function(){
+        $("li").removeClass("on");
         var url = window.location.href;
-        ss = url.substr(24, url.length);
-
+        ss = url.substr(19, url.length);
+      if(ss == "index.php"){
+            $("#first").addClass("on");
+      }
+        if(ss == "products.php"){
+            $("#second").addClass("on");
+        }
     });
 </script>
 <script>
@@ -24,9 +30,9 @@
 						<div class="fl" style="width:340px; height:80px"><embed src="http://www.weiba66.com/assets/img/logo.swf" width="340" height="80"></embed></div>
 			            <div id="nav" class="nav fr" style="width:760px">
                 <ul class="clearfix">
-                                                                                                                            <li class="on"><a href="/">首页</a>
+                                                                                                                            <li id="first"><a href="index.php">首页</a>
                                                         							</li>
-                                                                                    <li ><a href="products.php">产品</a>
+                                                                                    <li id="second" ><a href="products.php">产品</a>
                                                                                          <div class="sun_list">
                                     <ul>
                                                                                     <li><a href="products.php">微信公众平台</a></li>
