@@ -3,6 +3,7 @@
         $("li").removeClass("on");
         var url = window.location.href;
         ss = url.substr(19, url.length);
+        alert(ss);
       if(ss == "index.php"){
             $("#first").addClass("on");
       }
