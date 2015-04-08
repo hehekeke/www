@@ -170,7 +170,7 @@
         <div class="pro_right fr">
             <div class="pro_right_top mb10 clearfix">
                 <h3 class="fl">微官网</h3>
-                <a data-href="http://wxsyb.bama555.com/" class="fr qrcode">码上体验</a>
+                <a data-href="http://nhkj.bama555.com/" class="fr qrcode">码上体验</a>
             </div>
             <div class="pro_right_main">
                 <div class="tc"><img src="http://www.weiba66.com//data/images/1/201410/887a6dad5fe1f649cfe44ca470058bcb.png" alt="微官网"></div>
@@ -181,7 +181,7 @@
                         <strong>优势：</strong>将企业的形象通过最合适的方式优雅地展现在粉丝的面前，吸引粉丝的眼球。
                     </p>
                     <p>
-                        点击“码上体验”扫描二维码，或是微信关注“wxsyb88”回复“<span style="background-color:#E53333;color:#FFFFFF;"><strong>首页</strong></span>”体验。
+                        点击“码上体验”扫描二维码，或是微信关注“nuohuikeji”回复“<span style="background-color:#E53333;color:#FFFFFF;"><strong>首页</strong></span>”体验。
                     </p></p></div>
             </div>
         </div>

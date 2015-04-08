@@ -1,4 +1,8 @@
-
+<script>
+    $(function(){
+        alert(111);
+    });
+</script>
 <div class="header">
     <div class="head_bg">
         <div class="area clearfix">
