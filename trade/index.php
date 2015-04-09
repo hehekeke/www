@@ -196,7 +196,7 @@
     </div>
     <p class="trade-more">......</p>
     <p class="trade-mores">更多解决方案持续更新中</p>
-    <a class="trade-apply" href="http://www.weiba66.com/apply.html?from_site=trade"></a>
+    <a class="trade-apply" href="http://www.nuohuikeji.com/apply.php"></a>
 </div>
 
 
