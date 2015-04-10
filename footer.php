@@ -108,7 +108,7 @@
     <a class="zixun" href="javascript:;" id="help_qq1">售前咨询</a>
     <a class="join"href="javascript:;" id="help_qq2">城市加盟</a>
     <b class="tels">咨询热线<br/>400-008-6556</b>
-    <div><img src="http://www.weiba66.com/data/images/1/201410/60d21ae3ca07db76672a9a39752bd4a0.jpg"></div>
+    <div><img src="/images/nhkjerweima.jpg"></div>
     <p class="tc">扫一扫立即体验</p>
     <div class="qq_list" id="qq_list1" style="display: none;" data-show="1"> <a href="javascript:;" class="close_qq" id="close_qq1"></a>
         <h4>售前咨询</h4>
