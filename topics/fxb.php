@@ -75,7 +75,7 @@
 <div class="warp bg2">
     <div class="w1200" style="height:675px;position: relative;">
         <img src="http://www.weiba66.com/zt/fxb/images/img9.jpg" />
-        <a href="/apply.html?from_site=renrendian" style="display: block;width: 281px;height: 54px;position: absolute;left: 461px;bottom: 45px;"></a>
+        <a href="/renrendian.php" style="display: block;width: 281px;height: 54px;position: absolute;left: 461px;bottom: 45px;"></a>
     </div>
 </div>
 
@@ -99,14 +99,14 @@
         <img src="http://www.weiba66.com/zt/fxb/images/img13.jpg" />
     </div>
     <div style="text-align: center;padding-bottom: 25px;">
-        <a href="/apply.html?from_site=renrendian">
+        <a href="/renrendian.php">
             <img src="http://www.weiba66.com/zt/fxb/images/but.png">
         </a>
     </div>
 </div>
 
 
-<div class="fix"><a href="/apply.html?from_site=renrendian"><img src="http://www.weiba66.com/zt/fxb/images/fm.jpg"></a></div>
+<div class="fix"><a href="/renrendian.php"><img src="http://www.weiba66.com/zt/fxb/images/fm.jpg"></a></div>
 <div class="qq_list" id="qq_list1" style="display: block;" data-show="1">
     <h4>售前咨询</h4>
     <div class="area_qq">
