@@ -107,7 +107,7 @@
     <a class="free_go" href="/apply.php" target="_blank">免费试用</a>
     <a class="zixun" href="javascript:;" id="help_qq1">售前咨询</a>
     <a class="join"href="javascript:;" id="help_qq2">城市加盟</a>
-    <b class="tels">咨询热线<br/>400-008-6556</b>
+    <b class="tels">咨询热线<br/>157-2223-9090</b>
     <div><img src="/images/nhkjerweima.jpg"></div>
     <p class="tc">扫一扫立即体验</p>
     <div class="qq_list" id="qq_list1" style="display: none;" data-show="1"> <a href="javascript:;" class="close_qq" id="close_qq1"></a>
