@@ -153,7 +153,7 @@
                                 <input name="email" type="text" class="txt_input" id="apply_email" value="">
                                 <span class="maroon">*</span><span id="apply_email_err" class="help-inline"></span> </div>
                         </div>
-                      
+
                         <div class="control-group">
                             <label class="control-label" for="address">备注</label>
                             <div class="controls">

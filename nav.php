@@ -44,52 +44,52 @@
                                                                             </ul>
                                 </div>
                             							</li>
-                                                                                    <li ><a href="/service.html">服务</a>
+                                                                                    <li ><a href="/service.php">服务</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/service.html">微巴商学院</a></li>
-                                                                                    <li><a href="/service/agent.html">代理商支持</a></li>
-                                                                                    <li><a href="/service/tour.html">全国巡讲支持</a></li>
-                                                                                    <li><a href="/service/union.html">微信互粉通</a></li>
+                                                                                    <li><a href="/service.php">微巴商学院</a></li>
+                                                                                    <li><a href="/service/agent.php">代理商支持</a></li>
+                                                                                    <li><a href="/service/tour.php">全国巡讲支持</a></li>
+                                                                                    <li><a href="/service/union.php">微信互粉通</a></li>
                                                                             </ul>
                                 </div>
                             							</li>
-                                                                                    <li ><a href="/cases.html">案例</a>
+                                                                                    <li ><a href="/cases.php">案例</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/cases.html">微网站案例</a></li>
-                                                                                    <li><a href="/cases/rrd.html"> 人人店案例</a></li>
-                                                                                    <li><a href="/service.html#case">微营销案例</a></li>
+                                                                                    <li><a href="/cases.php">微网站案例</a></li>
+                                                                                    <li><a href="/cases/rrd.php"> 人人店案例</a></li>
+                                                                                    <li><a href="/service.php#case">微营销案例</a></li>
                                                                             </ul>
                                 </div>
                             							</li>
-                                                                                    <li ><a href="/join.html">加盟</a>
+                                                                                    <li ><a href="/join.php">加盟</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/join.html">成就财富人生</a></li>
+                                                                                    <li><a href="/join.php">成就财富人生</a></li>
                                                                             </ul>
                                 </div>
                             							</li>
-                                                                                    <li ><a href="/news.html">资讯</a>
+                                                                                    <li ><a href="/news.php">资讯</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/news/wbgd.html">微巴观点</a></li>
-                                                                                    <li><a href="/news.html">产品公告</a></li>
-                                                                                    <li><a href="/news/2.html">媒体报道</a></li>
-                                                                                    <li><a href="/news/6.html">政府考察</a></li>
+                                                                                    <li><a href="/news/wbgd.php">微巴观点</a></li>
+                                                                                    <li><a href="/news.php">产品公告</a></li>
+                                                                                    <li><a href="/news/2.php">媒体报道</a></li>
+                                                                                    <li><a href="/news/6.php">政府考察</a></li>
                                                                             </ul>
                                 </div>
                             							</li>
-                                                                                    <li ><a href="/topics.html">专题</a>
+                                                                                    <li ><a href="/topics.php">专题</a>
                                                          							</li>
-                                                                                    <li ><a href="/about.html">关于</a>
+                                                                                    <li ><a href="/about.php">关于</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/about.html">关于我们</a></li>
-                                                                                    <li><a href="/about/history.html">发展历程</a></li>
-                                                                                    <li><a href="/about/culture.html">企业文化</a></li>
-                                                                                    <li><a href="/about/jobs.html">加入我们</a></li>
-                                                                                    <li><a href="/about/contact.html">联系我们</a></li>
+                                                                                    <li><a href="/about.php">关于我们</a></li>
+                                                                                    <li><a href="/about/history.php">发展历程</a></li>
+                                                                                    <li><a href="/about/culture.php">企业文化</a></li>
+                                                                                    <li><a href="/about/jobs.php">加入我们</a></li>
+                                                                                    <li><a href="/about/contact.php">联系我们</a></li>
                                                                             </ul>
                                 </div>
                             							</li>
