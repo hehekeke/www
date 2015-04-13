@@ -30,6 +30,7 @@
 						<div class="fl" style="width:340px; height:80px"><embed src="http://www.weiba66.com/assets/img/logo.swf" width="340" height="80"></embed></div>
 			            <div id="nav" class="nav fr" style="width:760px">
                 <ul class="clearfix">
+<<<<<<< HEAD
                                                                                                                             <li id="first"><a href="/index.php">首页</a>
                                                         							</li>
                                                                                     <li id="second" ><a href="/products.php">产品</a>
@@ -41,6 +42,19 @@
                                                                                     <li><a href="http://www.mayun520.com">支付宝平台</a></li>
                                                                                     <li><a href="/topics/zhidahao.php">百度直达号</a></li>
                                                                                     <li><a href="/topics/qiyeweixin.php">微信企业号</a></li>
+=======
+                                                                                                                            <li id="first"><a href="http://www.nuohuikeji.com/index.php">首页</a>
+                                                        							</li>
+                                                                                    <li id="second" ><a href="http://www.nuohuikeji.com/products.php">产品</a>
+                                                                                         <div class="sun_list">
+                                    <ul>
+                                                                                    <li><a href="http://www.nuohuikeji.com/products.php">微信公众平台</a></li>
+                                                                                    <li><a href="http://www.nuohuikeji.com/topics/fxb.php">人人店微分销</a></li>
+                                                                                    <li><a href="http://www.nuohuikeji.com/trade/index.php">八大行业方案</a></li>
+                                                                                    <li><a href="http://www.mayun520.com">支付宝平台</a></li>
+                                                                                    <li><a href="http://www.nuohuikeji.com/topics/zhidahao.php">百度直达号</a></li>
+                                                                                    <li><a href="http://www.nuohuikeji.com/topics/qiyeweixin.php">微信企业号</a></li>
+>>>>>>> 8d847ee237698b20b370d40f57472df2d074c84a
                                                                             </ul>
                                 </div>
                             							</li>

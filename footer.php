@@ -131,7 +131,11 @@
     </div>
 </div>
 
+<<<<<<< HEAD
 <script src='http://www.weiba66.com/assets/js/jquery.carousel.js'></script>
+=======
+<script src='/assets/js/jquery.carousel.js'></script>
+>>>>>>> 8d847ee237698b20b370d40f57472df2d074c84a
 
 
 <script src='http://www.weiba66.com/app/modules/pc/assets/js/index.js'></script>
