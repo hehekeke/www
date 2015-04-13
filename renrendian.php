@@ -10,12 +10,9 @@
     <meta name="description" content="微信生意宝是由杭州微巴信息技术有限公司研发的一款基于微信营销的产品，可以帮助企业快速通过微信获得生意，推广企业品牌。">
     <link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/base.css">
     <link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/common.css">
-<<<<<<< HEAD
-    <link rel='stylesheet' href='http://www.weiba66.com/app/modules/pc/assets/css/reg.css'>
-    <script type="text/javascript" src="http://www.weiba66.com/app/modules/pc/assets/js/jquery.min.js"></script>
-=======
+
     <link rel='stylesheet' href='http://www.weiba66.com/app/modules/pc/assets/css/reg.css'><script type="text/javascript" src="http://www.weiba66.com/app/modules/pc/assets/js/jquery.min.js"></script>
->>>>>>> 8d847ee237698b20b370d40f57472df2d074c84a
+
 </head>
 <body>
 <?php include_once("nav.php")?>
@@ -149,14 +146,9 @@
 <!-- <script language="javascript" src="http://dbt.zoosnet.net/JS/LsJS.aspx?siteid=DBT53393103&float=1&lng=cn"></script> -->
 <script>
     $(function(){
-<<<<<<< HEAD
-        $('.btn-register').on('click',function(){
-            alert(11);
-=======
-        $('#area').citySelect({country:$(this).find('select.country').attr('defaultVal'), prov:$(this).find('select.prov').attr('defaultVal'), city:$(this).find('select.city').attr('defaultVal')});
 
         $('.btn-register').on('click',function(){
->>>>>>> 8d847ee237698b20b370d40f57472df2d074c84a
+
             var from_site = $('#from_site').val();
             var submitdata = '';
             var name = $('#apply_name').val();
