@@ -153,24 +153,7 @@
                                 <input name="email" type="text" class="txt_input" id="apply_email" value="">
                                 <span class="maroon">*</span><span id="apply_email_err" class="help-inline"></span> </div>
                         </div>
-                        <div class="control-group">
-                            <label class="control-label" for="username">用户名</label>
-                            <div class="controls">
-                                <input name="username" type="text" class="txt_input" id="apply_username" value="">
-                                <span class="maroon">*</span><span id="apply_username_err" class="help-inline"></span> </div>
-                        </div>
-                        <div class="control-group">
-                            <label class="control-label" for="username">密码</label>
-                            <div class="controls">
-                                <input name="password" type="password" class="txt_input" id="apply_password" value="">
-                                <span class="maroon">*</span><span id="apply_password_err" class="help-inline"></span> </div>
-                        </div>
-                        <div class="control-group">
-                            <label class="control-label" for="username">确认密码</label>
-                            <div class="controls">
-                                <input name="cpassword" type="password" class="txt_input" id="apply_cpassword" value="">
-                                <span class="maroon">*</span><span id="apply_cpassword_err" class="help-inline"></span> </div>
-                        </div>
+                      
                         <div class="control-group">
                             <label class="control-label" for="address">备注</label>
                             <div class="controls">
