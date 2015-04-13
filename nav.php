@@ -40,7 +40,7 @@
                                                                                     <li><a href="http://www.nuohuikeji.com/trade/index.php">八大行业方案</a></li>
                                                                                     <li><a href="http://www.mayun520.com">支付宝平台</a></li>
                                                                                     <li><a href="http://www.nuohuikeji.com/topics/zhidahao.php">百度直达号</a></li>
-                                                                                    <li><a href="http://www.nuohuikeji.com/topics/qiyeweixin.html">微信企业号</a></li>
+                                                                                    <li><a href="http://www.nuohuikeji.com/topics/qiyeweixin.php">微信企业号</a></li>
                                                                             </ul>
                                 </div>
                             							</li>
