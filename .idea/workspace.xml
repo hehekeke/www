@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nav.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="nav.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nav.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="123" selection-start="2420" selection-end="2420" vertical-scroll-proportion="-3.142857" vertical-offset="534" max-vertical-offset="2014">
+            <state line="32" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.29469547" vertical-offset="458" max-vertical-offset="2052">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -38,8 +38,19 @@
       <file leaf-file-name="renrendian.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/renrendian.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="66" selection-start="7741" selection-end="7747" vertical-scroll-proportion="23.25" vertical-offset="2817" max-vertical-offset="3895">
-              <folding />
+            <state line="124" column="66" selection-start="8307" selection-end="8307" vertical-scroll-proportion="23.25" vertical-offset="3007" max-vertical-offset="6498">
+              <folding>
+                <marker date="1428915816396" expanded="true" signature="17233:17284" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="9917:10042" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="10237:10366" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="10574:10703" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="10790:10921" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="11126:11270" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="11542:16777" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="17233:17265" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="17041:17102" placeholder="{...}" />
+                <marker date="1428915816396" expanded="true" signature="17233:17251" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajaxApply.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ajaxApply.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajaxApply.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="0.71453285" vertical-offset="5" max-vertical-offset="722">
+            <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="-14.75" vertical-offset="5" max-vertical-offset="722">
               <folding>
                 <marker date="1428915059467" expanded="true" signature="455:611" placeholder="insert into ..." />
                 <marker date="1428915059467" expanded="true" signature="455:564" placeholder="insert into ..." />
@@ -124,11 +135,11 @@
         <option value="$PROJECT_DIR$/nuohui/renrendian.php" />
         <option value="$PROJECT_DIR$/nuohui/footer.php" />
         <option value="$PROJECT_DIR$/nuohui/nav.php" />
-        <option value="$PROJECT_DIR$/nav.php" />
         <option value="$PROJECT_DIR$/SqlHelper.php" />
         <option value="$PROJECT_DIR$/SqlHelper.class.php" />
         <option value="$PROJECT_DIR$/renrendian.php" />
         <option value="$PROJECT_DIR$/ajaxApply.php" />
+        <option value="$PROJECT_DIR$/nav.php" />
       </list>
     </option>
   </component>
@@ -232,7 +243,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -282,16 +293,6 @@
         <state line="81" column="9" selection-start="2588" selection-end="2588" vertical-scroll-proportion="0.34948096" vertical-offset="1337" max-vertical-offset="4237" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="123" selection-start="2420" selection-end="2420" vertical-scroll-proportion="-3.142857" vertical-offset="534" max-vertical-offset="2014">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apply.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="326" column="47" selection-start="18328" selection-end="18334" vertical-scroll-proportion="-3.2545455" vertical-offset="6015" max-vertical-offset="6859">
@@ -301,20 +302,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/renrendian.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="66" selection-start="7741" selection-end="7747" vertical-scroll-proportion="23.25" vertical-offset="2817" max-vertical-offset="3895">
-          <folding />
+        <state line="124" column="66" selection-start="8307" selection-end="8307" vertical-scroll-proportion="23.25" vertical-offset="3007" max-vertical-offset="6498">
+          <folding>
+            <marker date="1428915816396" expanded="true" signature="17233:17284" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="9917:10042" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="10237:10366" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="10574:10703" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="10790:10921" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="11126:11270" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="11542:16777" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="17233:17265" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="17041:17102" placeholder="{...}" />
+            <marker date="1428915816396" expanded="true" signature="17233:17251" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajaxApply.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="0.71453285" vertical-offset="5" max-vertical-offset="722">
+        <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="-14.75" vertical-offset="5" max-vertical-offset="722">
           <folding>
             <marker date="1428915059467" expanded="true" signature="455:611" placeholder="insert into ..." />
             <marker date="1428915059467" expanded="true" signature="455:564" placeholder="insert into ..." />
             <marker date="1428915059467" expanded="true" signature="455:554" placeholder="insert into ..." />
             <marker date="1428915059467" expanded="true" signature="455:554" placeholder="insert into ..." />
             <marker date="1428915059467" expanded="true" signature="455:554" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.29469547" vertical-offset="458" max-vertical-offset="2052">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
