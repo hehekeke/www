@@ -127,10 +127,10 @@
       <file leaf-file-name="ajaxApply.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajaxApply.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="80" selection-start="630" selection-end="630" vertical-scroll-proportion="0.57194245" vertical-offset="100" max-vertical-offset="722">
+            <state line="23" column="10" selection-start="641" selection-end="641" vertical-scroll-proportion="0.6061151" vertical-offset="100" max-vertical-offset="722">
               <folding>
-                <marker date="1429003690375" expanded="true" signature="455:628" placeholder="insert into ..." />
-                <marker date="1429003690375" expanded="true" signature="455:622" placeholder="insert into ..." />
+                <marker date="1429003806774" expanded="true" signature="455:628" placeholder="insert into ..." />
+                <marker date="1429003806774" expanded="true" signature="455:622" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
@@ -596,8 +596,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="722">
           <folding>
-            <marker date="1429003690375" expanded="true" signature="455:628" placeholder="insert into ..." />
-            <marker date="1429003690375" expanded="true" signature="455:622" placeholder="insert into ..." />
+            <marker date="1429003806774" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429003806774" expanded="true" signature="455:622" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -727,10 +727,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ajaxApply.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="80" selection-start="630" selection-end="630" vertical-scroll-proportion="0.57194245" vertical-offset="100" max-vertical-offset="722">
+        <state line="23" column="10" selection-start="641" selection-end="641" vertical-scroll-proportion="0.6061151" vertical-offset="100" max-vertical-offset="722">
           <folding>
-            <marker date="1429003690375" expanded="true" signature="455:628" placeholder="insert into ..." />
-            <marker date="1429003690375" expanded="true" signature="455:622" placeholder="insert into ..." />
+            <marker date="1429003806774" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429003806774" expanded="true" signature="455:622" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
