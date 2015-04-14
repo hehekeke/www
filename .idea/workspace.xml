@@ -23,10 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+
       <file leaf-file-name="nav.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nav.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="52" column="53" selection-start="3063" selection-end="3063" vertical-scroll-proportion="-10.678572" vertical-offset="689" max-vertical-offset="2052">
+
               <folding />
             </state>
           </provider>
@@ -91,10 +93,12 @@
           </provider>
         </entry>
       </file>
+
       <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/Application/Common/Conf/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="24" selection-start="238" selection-end="242" vertical-scroll-proportion="0.2733813" vertical-offset="0" max-vertical-offset="556">
+
               <folding />
             </state>
           </provider>
@@ -124,12 +128,14 @@
           </provider>
         </entry>
       </file>
+
       <file leaf-file-name="ajaxApply.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajaxApply.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="24" column="16" selection-start="620" selection-end="631" vertical-scroll-proportion="-12.035714" vertical-offset="119" max-vertical-offset="722">
               <folding>
                 <marker date="1428915059467" expanded="true" signature="455:611" placeholder="insert into ..." />
+
               </folding>
             </state>
           </provider>
@@ -184,9 +190,11 @@
         <option value="$PROJECT_DIR$/nuohui/nav.php" />
         <option value="$PROJECT_DIR$/SqlHelper.php" />
         <option value="$PROJECT_DIR$/SqlHelper.class.php" />
+
         <option value="$PROJECT_DIR$/ajaxApply.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/renrendian.php" />
+
         <option value="$PROJECT_DIR$/service/agent.php" />
         <option value="$PROJECT_DIR$/nav.php" />
         <option value="$PROJECT_DIR$/service/tour.php" />
@@ -202,8 +210,10 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
+
     <option name="y" value="-8" />
     <option name="width" value="1382" />
+
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -301,6 +311,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+
+
+              <option name="myItemId" value="Runtime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Runtime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+
               <option name="myItemId" value="Home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -457,7 +518,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+
     <editor active="true" />
     <layout>
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -467,7 +530,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26061493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -548,7 +613,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="722">
           <folding>
+
             <marker date="1428915059467" expanded="true" signature="455:611" placeholder="insert into ..." />
+
           </folding>
         </state>
       </provider>
@@ -586,6 +653,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/renrendian.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="196" column="17" selection-start="11213" selection-end="11213" vertical-scroll-proportion="0.6637168" vertical-offset="3349" max-vertical-offset="3952">
@@ -593,6 +661,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/service.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="39" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-2.6904762" vertical-offset="230" max-vertical-offset="6099">
@@ -626,6 +695,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/ajaxApply.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="16" selection-start="620" selection-end="631" vertical-scroll-proportion="-12.035714" vertical-offset="119" max-vertical-offset="722">
@@ -635,6 +705,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/service/tour.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="39" selection-start="1351" selection-end="1351" vertical-scroll-proportion="-1.1071428" vertical-offset="363" max-vertical-offset="2432">
@@ -680,8 +751,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/Application/Common/Conf/config.php">
       <provider selected="true" editor-type-id="text-editor">
+
         <state line="8" column="24" selection-start="238" selection-end="242" vertical-scroll-proportion="0.2733813" vertical-offset="0" max-vertical-offset="556">
+
           <folding />
+        </state>
+      </provider>
+    </entry>
+
+    <entry file="file://$PROJECT_DIR$/ajaxApply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="22" selection-start="695" selection-end="695" vertical-scroll-proportion="0.70863307" vertical-offset="100" max-vertical-offset="722">
+          <folding>
+            <marker date="1429004002338" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429004002338" expanded="true" signature="455:622" placeholder="insert into ..." />
+          </folding>
         </state>
       </provider>
     </entry>

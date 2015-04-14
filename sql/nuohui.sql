@@ -5,6 +5,7 @@ mysql -h 112.126.80.235 -u root -p
 CREATE DATABASE nuohui;
 
 --生意宝数据库表
+
 CREATE TABLE user_info(
 	id INT AUTO_INCREMENT,
 	username VARCHAR(20),
@@ -18,4 +19,5 @@ CREATE TABLE user_info(
 	apply_type TINYINT,
 	notes VARCHAR(120),
 	PRIMARY KEY(id)
+
 )

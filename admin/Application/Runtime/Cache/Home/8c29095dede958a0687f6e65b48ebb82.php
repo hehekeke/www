@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,6 +20,7 @@
 
 </script>
 </head>
+<?php  @$username = $_POST['username']; @$password = $_POST['pwd']; @$admin_url = 'http://'.$_SERVER['HTTP_HOST'].dirname($_SERVER['PHP_SELF']).'/admin_index.php'; if(isset($_POST['submit'])){ if($username=="admin" && $password=="admin") { header('Location:'.$admin_url); } } ?>
 <body  bgcolor="#D9ECFF"
 	style="height: 100%; width: 100%; overflow: hidden; border: none; visibility: visible;">
 	<div class="easyui-window"
@@ -31,9 +32,7 @@
 		</div>
 		<div style="font-size: 14px;color: red;padding-top: 10px" align="center"></div>
 		<div style="padding: 30px 0;">
-
-			<form method="post" action="index.php/Home/Index/admin_index">
-
+			<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
 				<div style="padding-left: 130px">
 					<table cellpadding="0" cellspacing="3">
 					    <tr></tr>

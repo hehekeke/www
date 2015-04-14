@@ -55,6 +55,7 @@
                                     <option value="生活服务">| 生活服务</option>
                                     <option value="广告会展">|---- 广告会展</option>
                                     <option value="互联网">|---- 互联网</option>
+
                                     <option value="40">|---- 娱乐</option>
                                     <option value="48">|---- 酒店</option>
                                     <option value="49">|---- 电影院</option>
@@ -106,6 +107,7 @@
                                     <option value="41">| 其他</option>
                                     <option value="31">|---- 家政/物业</option>
                                     <option value="32">|---- 律师/咨询/翻译</option>
+
                                 </select>
                                 <span class="maroon">*</span><span id="apply_profession_err" class="help-inline"></span> </div>
                         </div>
