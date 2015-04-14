@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nav.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nav.php">
+      <file leaf-file-name="renrendian.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/renrendian.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="53" selection-start="3063" selection-end="3063" vertical-scroll-proportion="-10.678572" vertical-offset="689" max-vertical-offset="2052">
+            <state line="193" column="32" selection-start="11137" selection-end="11137" vertical-scroll-proportion="0.47513813" vertical-offset="3409" max-vertical-offset="3952">
               <folding />
             </state>
           </provider>
@@ -91,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/Application/Common/Conf/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="238" selection-end="242" vertical-scroll-proportion="0.2733813" vertical-offset="0" max-vertical-offset="556">
+            <state line="12" column="2" selection-start="338" selection-end="338" vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="342">
               <folding />
             </state>
           </provider>
@@ -186,7 +186,6 @@
         <option value="$PROJECT_DIR$/SqlHelper.class.php" />
         <option value="$PROJECT_DIR$/ajaxApply.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/renrendian.php" />
         <option value="$PROJECT_DIR$/service/agent.php" />
         <option value="$PROJECT_DIR$/nav.php" />
         <option value="$PROJECT_DIR$/service/tour.php" />
@@ -196,14 +195,14 @@
         <option value="$PROJECT_DIR$/admin/Application/Home/View/index/admin.php" />
         <option value="$PROJECT_DIR$/admin/Application/Home/Controller/IndexController.class.php" />
         <option value="$PROJECT_DIR$/admin/Application/Common/Conf/config.php" />
+        <option value="$PROJECT_DIR$/renrendian.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -457,7 +456,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -467,7 +466,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26061493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2613803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -586,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/renrendian.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="17" selection-start="11213" selection-end="11213" vertical-scroll-proportion="0.6637168" vertical-offset="3349" max-vertical-offset="3952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="39" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-2.6904762" vertical-offset="230" max-vertical-offset="6099">
@@ -680,7 +672,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/Application/Common/Conf/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="238" selection-end="242" vertical-scroll-proportion="0.2733813" vertical-offset="0" max-vertical-offset="556">
+        <state line="12" column="2" selection-start="338" selection-end="338" vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="342">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renrendian.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="32" selection-start="11137" selection-end="11137" vertical-scroll-proportion="0.47513813" vertical-offset="3409" max-vertical-offset="3952">
           <folding />
         </state>
       </provider>
