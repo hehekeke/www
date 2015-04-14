@@ -51,7 +51,7 @@
       <file leaf-file-name="union.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service/union.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="62" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.2907662" vertical-offset="384" max-vertical-offset="1121">
+            <state line="34" column="16" selection-start="1901" selection-end="1901" vertical-scroll-proportion="0.51473475" vertical-offset="384" max-vertical-offset="1121">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -264,7 +264,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -456,7 +456,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service/union.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="62" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.2907662" vertical-offset="384" max-vertical-offset="1121">
+        <state line="34" column="16" selection-start="1901" selection-end="1901" vertical-scroll-proportion="0.51473475" vertical-offset="384" max-vertical-offset="1121">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
