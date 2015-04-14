@@ -21,10 +21,9 @@ $remark = $_POST['remark'];
 
 $sql = "insert into user_info(id,username,position,mobile_number,company_name,notes,apply_type) values
         (null ,'$username','$position','$telphone','$company','$remark','人人店')";
-echo $sql;
 if (!mysql_query($sql,$con))
 {
-    echo mysql_error();
+    echo "0";
 }else{
     echo "1";
 }
