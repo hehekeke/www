@@ -2,18 +2,17 @@
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-  <meta content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
   <title>user info</title>
   
 </head>
 <body>
-	<?php 
-
+	<?php
 		$dbc = mysqli_connect('112.126.80.235','root','root','nuohui') or die('Error connecting MySql Server!');
-
-		$query ='select * from user_info';
+    $dbc -> set_charset('utf-8');
+    $query ='select * from user_info';
 		$result = mysqli_query($dbc, $query) or die('result');
-
 		echo '<table>';
 		  while ($row = mysqli_fetch_array($result)) { 
 		    // Display the score data
@@ -24,7 +23,6 @@
 		    echo '<td>' . $row['mail'] . '</td>';
 		    echo '</tr>';
 	  	    }
-	 
 	  echo '</table>';
 	?>
 </body>
