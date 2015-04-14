@@ -24,7 +24,7 @@ $sql = "insert into user_info(id,username,position,mobile_number,company_name,no
 echo $sql;
 if (!mysql_query($sql,$con))
 {
-    echo "0";
+    echo mysql_error();
 }else{
     echo "1";
 }
