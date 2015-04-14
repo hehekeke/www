@@ -39,7 +39,7 @@
                                                                                     <li><a href="/products.php">微信公众平台</a></li>
                                                                                     <li><a href="/topics/fxb.php">人人店微分销</a></li>
                                                                                     <li><a href="/trade/index.php">八大行业方案</a></li>
-                                                                                    <li><a href="http://www.mayun520.com">支付宝平台</a></li>
+                                                                                    <li><a target="_blank" href="http://www.mayun520.com">支付宝平台</a></li>
                                                                                     <li><a href="/topics/zhidahao.php">百度直达号</a></li>
                                                                                     <li><a href="/topics/qiyeweixin.php">微信企业号</a></li>
 

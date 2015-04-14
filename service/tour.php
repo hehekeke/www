@@ -19,14 +19,14 @@
     <div class="banner" style="background-image:url(http://www.weiba66.com/data/images/1/201410/900ea0dbf86b597013e1e3ad0d7e33f8.jpg)"></div>
     <div class="tab_search area clearfix">
         <div class="fl">
-            <a href="/service.html">微巴商学院</a>
+            <a href="/service.html">诺辉学院</a>
             <a href="/service/tour.html" class="on">全国巡讲支持</a>
             <a href="/service/union.html">微信互粉通</a>
             <a href="/service/agent.html">代理商支持</a>
         </div>
     </div>
     <div class="area teacher">
-        <p>　　由总部李总（总部渠道部总监，微巴商学院资深讲师李黎明）为主开展的全国巡回讲座。代理商只需向总部提出会销支持申请，总部不仅会派专业讲师为全国的代理商提供会销支持，还会向代理商提供会销操作方案为代理商排疑解难。</p>
+        <p>　　由总部李总（总部渠道部总监，诺辉学院资深讲师李黎明）为主开展的全国巡回讲座。代理商只需向总部提出会销支持申请，总部不仅会派专业讲师为全国的代理商提供会销支持，还会向代理商提供会销操作方案为代理商排疑解难。</p>
         <ul class="clearfix">
             <li class="clearfix">
                 <div class="head_pic fl"><a href="#" target="_blank"><img src="http://www.weiba66.com/data/images/25/201412/32c10e25cec971f9ec8989326482e7c8.jpg" alt="董亮"></a></div>
@@ -50,10 +50,10 @@
                     <h3>李黎明</h3>
                     <p>
                     <p>
-                        现任微巴商学院院长、微信生意宝渠道总监
+                        现任诺辉学院院长、微信生意宝渠道总监
                     </p>
                     <p>
-                        微信营销专家、微巴商学院特聘讲师
+                        微信营销专家、诺辉学院特聘讲师
                     </p>
                     <p>
                         近十年的互联网从业经历让他能更准确的把握企业微信营销的脉搏
@@ -75,7 +75,7 @@
                 <div class="s_title"><a href="/news/detail/44.html">“微营销实战兵法全国巡讲”青岛站</a></div>
                 <p class="s_date">2014-11-03</p>
                 <div><a href="/news/detail/44.html"><img src="http://www.weiba66.com/data/images/1/201411/506ead05f339e5ac00478bf862a69898.jpg" alt="“微营销实战兵法全国巡讲”青岛站"></a></div>
-                <div class="s_info">5月15日下午，微信生意宝2014“微营销实战兵法”来到海滨城市青岛，报名人数一度达到2000多名，由于会场位置有限，最终报名前400名的幸运企业家顺利进入微信生意宝首席微信营销专家、微巴商学院院长李黎明老师的授课现场。 <a href="/news/detail/44">[详情]</a></div>
+                <div class="s_info">5月15日下午，微信生意宝2014“微营销实战兵法”来到海滨城市青岛，报名人数一度达到2000多名，由于会场位置有限，最终报名前400名的幸运企业家顺利进入微信生意宝首席微信营销专家、诺辉学院院长李黎明老师的授课现场。 <a href="/news/detail/44">[详情]</a></div>
             </li>
             <li class="item_wq">
                 <div class="s_title"><a href="/news/detail/42.html">【2014全国巡讲】“微营销实战兵法”南阳、莱芜站</a></div>
@@ -88,7 +88,7 @@
                 <p class="s_date">2014-11-03</p>
                 <div><a href="/news/detail/39.html"><img src="http://www.weiba66.com/data/images/1/201411/50387a603adb133832e5274cd2d7fdc3.jpg" alt="【全国巡讲】“微营销实战兵法”临海站火爆落幕"></a></div>
                 <div class="s_info"><p>
-                        6月16日，微信生意宝2014“微营销实战兵法”全国巡讲第80站来到临海，讲座爆满，微信生意宝首席微信营销专家、微巴商学院院长李黎明2小时的微信运营干货分享点燃了企业家们微信营销的热情。
+                        6月16日，微信生意宝2014“微营销实战兵法”全国巡讲第80站来到临海，讲座爆满，微信生意宝首席微信营销专家、诺辉学院院长李黎明2小时的微信运营干货分享点燃了企业家们微信营销的热情。
                     </p>
                     <p>
                         <br />

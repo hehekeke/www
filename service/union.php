@@ -19,7 +19,7 @@
     <div class="banner" style="background-image:url(http://www.weiba66.com/data/images/1/201410/3e415b3442936d017e9632e1c00d7de8.jpg)"></div>
     <div class="tab_search area clearfix">
         <div class="fl">
-            <a href="/service.html">微巴商学院</a>
+            <a href="/service.html">诺辉学院</a>
             <a href="/service/tour.html">全国巡讲支持</a>
             <a href="/service/union.html" class="on">微信互粉通</a>
             <a href="/service/agent.html">代理商支持</a>
