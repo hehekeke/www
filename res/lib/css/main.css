@@ -1,0 +1,120 @@
+*{
+	font-size:12px;
+}
+body{
+	visibility:hidden;
+}
+#loading-mask{
+	position:absolute;
+	background:#F2FBFF;
+	visibility:visible;
+	display:block;
+	width:100%;
+	height:100%;
+	filter:alpha(opacity=80);
+	opacity:0.80;
+	z-index:999999999;
+}
+#loading-msg{
+	width:150px;
+	margin:10px auto;
+	padding:5px 10px;
+	text-align:center;
+	font-weight:bold;
+	font-size:14px;
+	color:#fff;
+	background:#aaa;
+}
+.easyui-menu{
+	display:none;
+}
+form{
+	margin:0;
+	padding:0;
+}
+.login{
+	background:url('../images/login_01.gif') no-repeat;
+}
+.mainwrap{
+	width:960px;
+	width:100%;
+	height:100%;
+	margin:0 auto;
+	background:#fff;
+}
+.header{
+	background:url('../images/head.gif') repeat-x;
+	background1:#A1C4E4;
+	height:80px;
+	width:100%;
+}
+.toptitle{
+	position:absolute;
+	left:20px;
+	color:#fff;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.maintitle{
+	position:absolute;
+	left:5px;
+	color:#fff;
+	font-size:35px;
+	font-weight:bold;
+}
+
+
+
+.subtitle{
+	font-size:14px;
+	font-weight:bold;
+	color:#666;
+	padding:10px 5px;
+}
+.toolbar{
+	padding:4px 5px;
+	background:#efefef;
+	border-bottom:1px solid #92B7D0;
+}
+
+.toolbar a.l-btn:hover{
+	background:#fafafa;
+}
+.submenu{
+}
+.submenu a{
+	display:block;
+	line-height:150%;
+	padding:3px 15px;
+	text-decoration:none;
+	color:#666;
+	margin-bottom1:5px;
+	background:url('../images/bullet_blue.png') no-repeat 0 center;
+}
+.submenu a:hover{
+	background-color:#ffffcc;
+}
+.form-table tr{
+	height:25px;
+}
+.top_wrap{
+	width:100%; 
+}
+.top_caption{
+	cursor: default;
+	height: 50px;
+	width: 250px;
+	color: #EEE;
+	font-size: 20px;
+	float: left;
+	text-align: center;
+	padding-top: 22px;
+	text-shadow: 0 0 25px #555; -webkit-box-reflect: below -3px -webkit-gradient(linear,0 0,0 100%,from(transparent),color-stop(83%,transparent),to(rgba(255,255,255,.4)));
+}
+.top_caption:hover{
+	text-shadow: 0 0 25px  #FF6; -webkit-transition: all .5s ease-in-out; 
+}
+.top_logo{
+	float:left; margin-top:15px; width:55px; height: 55px; margin-left:10px;
+}
