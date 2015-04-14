@@ -21,8 +21,8 @@
         <div class="fl">
             <a href="/service.php" class="on">诺辉学院</a>
             <a href="/service/tour.php">全国巡讲支持</a>
-            <a href="/service/union.html">微信互粉通</a>
-            <a href="/service/agent.html">代理商支持</a>
+            <a href="/service/union.php">微信互粉通</a>
+            <a href="/service/agent.php">代理商支持</a>
         </div>
     </div>
     <div class="edu_area clearfix">

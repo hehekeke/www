@@ -19,10 +19,10 @@
     <div class="banner" style="background-image:url(http://www.weiba66.com/data/images/1/201410/900ea0dbf86b597013e1e3ad0d7e33f8.jpg)"></div>
     <div class="tab_search area clearfix">
         <div class="fl">
-            <a href="/service.html">诺辉学院</a>
-            <a href="/service/tour.html" class="on">全国巡讲支持</a>
-            <a href="/service/union.html">微信互粉通</a>
-            <a href="/service/agent.html">代理商支持</a>
+            <a href="/service.php">诺辉学院</a>
+            <a href="/service/tour.php" class="on">全国巡讲支持</a>
+            <a href="/service/union.php">微信互粉通</a>
+            <a href="/service/agent.php">代理商支持</a>
         </div>
     </div>
     <div class="area teacher">
