@@ -3,14 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>后台管理</title>
-<link rel="stylesheet" type="text/css" href="/res/lib/css/themes/default/easyui.css">
-<link rel="stylesheet" type="text/css" href="/res/lib/css/themes/icon.css">
-<link rel="stylesheet" type="text/css" href="/res/lib/css/main.css">
-<script type="text/javascript" src="/res/lib/jquery/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/res/lib/js/jquery.easyui.min.js"></script>
-<script type="text/javascript" src="/res/lib/js/easyui-lang-zh_CN.js"></script>
-  <link href="/res/lib/ligerUI/skins/Aqua/css/ligerui-all.css" rel="stylesheet" type="text/css" /> 
-    <script src="/res/lib/ligerUI/js/ligerui.min.js" type="text/javascript"></script> 
+<link rel="stylesheet" type="text/css" href="./res/lib/css/themes/default/easyui.css">
+<link rel="stylesheet" type="text/css" href="./res/lib/css/themes/icon.css">
+<link rel="stylesheet" type="text/css" href="./res/lib/css/main.css">
+<script type="text/javascript" src="./res/lib/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="./res/lib/js/jquery.easyui.min.js"></script>
+<script type="text/javascript" src="./res/lib/js/easyui-lang-zh_CN.js"></script>
+  <link href="./res/lib/ligerUI/skins/Aqua/css/ligerui-all.css" rel="stylesheet" type="text/css" /> 
+    <script src="./res/lib/ligerUI/js/ligerui.min.js" type="text/javascript"></script> 
 <style type="text/css">
 .ll {
 	display: block;
@@ -131,13 +131,13 @@ a,a:hover,.tingico {
 	    <div region="north" style="height:85%;width: 100%;">
 <div class="top">
 	<div class="top_wrap">
-    		<div class="top_logo"><img src="/res/lib/images/manage1.png" width="60" height="60"  /></div>
-    		<div class="top_caption">启程管理系统<br /><p style="font-size:9px; margin-top:2px;">Student Management Center</p>
+    		<div class="top_logo"><img src="./res/lib/images/manage1.png" width="60" height="60"  /></div>
+    		<div class="top_caption"><p style="color:black;font-size:15px;">启程管理系统</p><br /><p style="font-size:9px; margin-top:2px;color:black;">Student Management Center</p>
     		</div>
 	    	<div style="padding-top:50px;float: right;padding-right: 20px">
-					<span style="color:#fff ;font-size: 17px" id="timeInfo"></span>	&nbsp;&nbsp;
-					<span style="color:#fff;font-size: 17px" >欢迎你</span>
-					<a href="<%=basePath %>logout.jsp" style="font-size: 15px;text-decoration:none;padding-left: 15px;color:#fff;padding-right: 5px">
+					<span style="color:black ;font-size: 17px" id="timeInfo"></span>	&nbsp;&nbsp;
+					<span style="color:black;font-size: 17px" >欢迎你</span>
+					<a href="" style="font-size: 15px;text-decoration:none;padding-left: 15px;color:black;padding-right: 5px">
 					注销</a><!-- |<a href="javascript:void(0)" onclick="pwdupdate();" style="font-size: 15px;text-decoration:none;color:#fff ">
 					修改密码</a> -->
 				</div>
@@ -156,7 +156,7 @@ a,a:hover,.tingico {
 			<div class="easyui-accordion" fit="true" style="text-align: left;" id="accordionPanel">          
    	             <div title="用户管理">
                     <ul >                   
-						<li class="ll" onClick="javascript:addTab('用户列表','guser_firstPage');"><img src="/res/lib/images/icon.png" style="height: 16px" />&nbsp;用户列表</li>					
+						<li class="ll" onClick="javascript:addTab('用户列表','./user_info.php');"><img src="./res/lib/images/icon.png" style="height: 16px" />&nbsp;用户列表</li>					
 					</ul>
 					
    	            </div>
@@ -167,7 +167,7 @@ a,a:hover,.tingico {
 	    <div region="center">
 	    	<div class="easyui-tabs" fit="true" id="tt"> 
 	    		<div title="主页">
-	    			<iframe width='100%' height='100%'  id='iframe' frameborder='0' scrolling='auto'  src='/welcome.php'></iframe>
+	    			<iframe width='100%' height='100%'  id='iframe' frameborder='0' scrolling='auto'  src=''></iframe>
 	    		</div>
 	    	</div>
 	    </div>  
