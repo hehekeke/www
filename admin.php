@@ -4,12 +4,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>用户登录</title>
 <link rel="stylesheet" type="text/css"
-	href="/res/lib/css/themes/default/easyui.css">
+	href="./res/lib/css/themes/default/easyui.css">
 <link rel="stylesheet" type="text/css"
-	href="/res/lib/css/themes/icon.css">
-<link rel="stylesheet" type="text/css" href="/res/lib/css/main.css">
-<script type="text/javascript" src="/res/lib/jquery/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/res/lib/js/jquery.easyui.min.js"></script>
+	href="./res/lib/css/themes/icon.css">
+<link rel="stylesheet" type="text/css" href="./res/lib/css/main.css">
+<script type="text/javascript" src="./res/lib/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="./res/lib/js/jquery.easyui.min.js"></script>
 <script type="text/javascript">
 var flg1=false;
 var flg2=false;
