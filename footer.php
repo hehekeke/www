@@ -5,12 +5,12 @@
                 <dl>
                     <dt>产品</dt>
                     <dd>
-                        <p><a href="/products.html" target="_blank">微信公众平台</a></p>
-                        <p><a href="/topics/fxb.html" target="_blank">人人店微分销</a></p>
-                        <p><a href="/trade/index.html" target="_blank">八大行业方案</a></p>
+                        <p><a href="/products.php" target="_blank">微信公众平台</a></p>
+                        <p><a href="/topics/fxb.php" target="_blank">人人店微分销</a></p>
+                        <p><a href="/trade/index.php" target="_blank">八大行业方案</a></p>
                         <p><a href="http://www.mayun520.com" target="_blank">支付宝平台</a></p>
-                        <p><a href="/topics/zhidahao.html" target="_blank">百度直达号</a></p>
-                        <p><a href="/topics/qiyeweixin.html" target="_blank">微信企业号</a></p>
+                        <p><a href="/topics/zhidahao.php" target="_blank">百度直达号</a></p>
+                        <p><a href="/topics/qiyeweixin.php" target="_blank">微信企业号</a></p>
                     </dd>
                 </dl>
             </li>
@@ -18,10 +18,10 @@
                 <dl>
                     <dt>服务</dt>
                     <dd>
-                        <p><a href="/service.html" target="_blank">微巴商学院</a></p>
-                        <p><a href="/service/agent.html" target="_blank">代理商支持</a></p>
-                        <p><a href="/service/tour.html" target="_blank">全国巡讲支持</a></p>
-                        <p><a href="/service/union.html" target="_blank">微信互粉通</a></p>
+                        <p><a href="/service.php" target="_blank">微巴商学院</a></p>
+                        <p><a href="/service/agent.php" target="_blank">代理商支持</a></p>
+                        <p><a href="/service/tour.php" target="_blank">全国巡讲支持</a></p>
+                        <p><a href="/service/union.php" target="_blank">微信互粉通</a></p>
                     </dd>
                 </dl>
             </li>
@@ -29,9 +29,9 @@
                 <dl>
                     <dt>案例</dt>
                     <dd>
-                        <p><a href="/cases.html" target="_blank">微网站案例</a></p>
-                        <p><a href="/cases/rrd.html" target="_blank"> 人人店案例</a></p>
-                        <p><a href="/service.html#case" target="_blank">微营销案例</a></p>
+                        <p><a href="/cases.php" target="_blank">微网站案例</a></p>
+                        <p><a href="/cases/rrd.php" target="_blank"> 人人店案例</a></p>
+                        <p><a href="/service.php#case" target="_blank">微营销案例</a></p>
                     </dd>
                 </dl>
             </li>
@@ -42,7 +42,7 @@
                 <dl>
                     <dt>加盟</dt>
                     <dd>
-                        <p><a href="/join.html" target="_blank">成就财富人生</a></p>
+                        <p><a href="/join.php" target="_blank">成就财富人生</a></p>
                     </dd>
                 </dl>
             </li>
@@ -50,10 +50,10 @@
                 <dl>
                     <dt>资讯</dt>
                     <dd>
-                        <p><a href="/news/wbgd.html" target="_blank">微巴观点</a></p>
-                        <p><a href="/news.html" target="_blank">产品公告</a></p>
-                        <p><a href="/news/2.html" target="_blank">媒体报道</a></p>
-                        <p><a href="/news/6.html" target="_blank">政府考察</a></p>
+                        <p><a href="/news/wbgd.php" target="_blank">微巴观点</a></p>
+                        <p><a href="/news.php" target="_blank">产品公告</a></p>
+                        <p><a href="/news/2.php" target="_blank">媒体报道</a></p>
+                        <p><a href="/news/6.php" target="_blank">政府考察</a></p>
                     </dd>
                 </dl>
             </li>
@@ -61,11 +61,11 @@
                 <dl>
                     <dt>关于</dt>
                     <dd>
-                        <p><a href="/about.html" target="_blank">关于我们</a></p>
-                        <p><a href="/about/history.html" target="_blank">发展历程</a></p>
-                        <p><a href="/about/culture.html" target="_blank">企业文化</a></p>
-                        <p><a href="/about/jobs.html" target="_blank">加入我们</a></p>
-                        <p><a href="/about/contact.html" target="_blank">联系我们</a></p>
+                        <p><a href="/about.php" target="_blank">关于我们</a></p>
+                        <p><a href="/about/history.php" target="_blank">发展历程</a></p>
+                        <p><a href="/about/culture.php" target="_blank">企业文化</a></p>
+                        <p><a href="/about/jobs.php" target="_blank">加入我们</a></p>
+                        <p><a href="/about/contact.php" target="_blank">联系我们</a></p>
                     </dd>
                 </dl>
             </li>
@@ -107,8 +107,8 @@
     <a class="free_go" href="/apply.php" target="_blank">免费试用</a>
     <a class="zixun" href="javascript:;" id="help_qq1">售前咨询</a>
     <a class="join"href="javascript:;" id="help_qq2">城市加盟</a>
-    <b class="tels">咨询热线<br/>400-008-6556</b>
-    <div><img src="http://www.weiba66.com/data/images/1/201410/60d21ae3ca07db76672a9a39752bd4a0.jpg"></div>
+    <b class="tels">咨询热线<br/>157-2223-9090</b>
+    <div><img src="/images/nhkjerweima.jpg"></div>
     <p class="tc">扫一扫立即体验</p>
     <div class="qq_list" id="qq_list1" style="display: none;" data-show="1"> <a href="javascript:;" class="close_qq" id="close_qq1"></a>
         <h4>售前咨询</h4>
@@ -131,7 +131,9 @@
     </div>
 </div>
 
-<script src='/assets/js/jquery.carousel.js'></script>
+
+<script src='http://www.weiba66.com/assets/js/jquery.carousel.js'></script>
+
 
 
 <script src='http://www.weiba66.com/app/modules/pc/assets/js/index.js'></script>

@@ -639,7 +639,7 @@
         <a href="javascript:;" id="case_next"></a>
     </div>
     <div class="typical clearfix area">
-        <h3 class="fl"><img src="/app/modules/pc/assets/images/ty.png" alt="典型客户" /></h3>
+        <h3 class="fl"><img src="http://www.weiba66.com/app/modules/pc/assets/images/ty.png" alt="典型客户" /></h3>
         <!--下面是向左滚动代码-->
         <div id="colee_left" style="overflow:hidden;width:1038px; height:80px; float:left">
             <table cellpadding="0" cellspacing="0" border="0">
