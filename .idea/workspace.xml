@@ -52,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.class.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="UserController.class.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/Application/Home/Controller/UserController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="556">
+            <state line="8" column="57" selection-start="199" selection-end="199" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="418">
               <folding />
             </state>
           </provider>
@@ -88,13 +88,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajaxApply.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ajaxApply.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajaxApply.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="-14.428572" vertical-offset="147" max-vertical-offset="703">
+            <state line="24" column="28" selection-start="660" selection-end="660" vertical-scroll-proportion="0.5215827" vertical-offset="166" max-vertical-offset="722">
               <folding>
-                <marker date="1429005177669" expanded="true" signature="455:628" placeholder="insert into ..." />
-                <marker date="1429005177669" expanded="true" signature="558:675" placeholder="insert into ..." />
+                <marker date="1429005559786" expanded="true" signature="455:628" placeholder="insert into ..." />
+                <marker date="1429005559786" expanded="true" signature="631:676" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
@@ -176,9 +176,9 @@
         <option value="$PROJECT_DIR$/admin/Application/Home/View/index/admin.php" />
         <option value="$PROJECT_DIR$/admin/Application/Common/Conf/config.php" />
         <option value="$PROJECT_DIR$/renrendian.php" />
-        <option value="$PROJECT_DIR$/ajaxApply.php" />
         <option value="$PROJECT_DIR$/admin/Application/Home/View/index/admin_index.html" />
         <option value="$PROJECT_DIR$/admin/Application/Home/Controller/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/ajaxApply.php" />
       </list>
     </option>
   </component>
@@ -531,8 +531,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="22" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="722">
           <folding>
-            <marker date="1429005177669" expanded="true" signature="455:628" placeholder="insert into ..." />
-            <marker date="1429005177669" expanded="true" signature="558:675" placeholder="insert into ..." />
+            <marker date="1429005559786" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429005559786" expanded="true" signature="631:676" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -577,8 +577,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="722">
           <folding>
-            <marker date="1429005177669" expanded="true" signature="455:628" placeholder="insert into ..." />
-            <marker date="1429005177669" expanded="true" signature="558:675" placeholder="insert into ..." />
+            <marker date="1429005559786" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429005559786" expanded="true" signature="631:676" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -668,16 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxApply.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="-14.428572" vertical-offset="147" max-vertical-offset="703">
-          <folding>
-            <marker date="1429005177669" expanded="true" signature="455:628" placeholder="insert into ..." />
-            <marker date="1429005177669" expanded="true" signature="558:675" placeholder="insert into ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="10" selection-start="9" selection-end="19" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="152">
@@ -708,8 +698,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/Application/Home/Controller/UserController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+        <state line="8" column="57" selection-start="199" selection-end="199" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="418">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxApply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="28" selection-start="660" selection-end="660" vertical-scroll-proportion="0.5215827" vertical-offset="166" max-vertical-offset="722">
+          <folding>
+            <marker date="1429005559786" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429005559786" expanded="true" signature="631:676" placeholder="insert into ..." />
+          </folding>
         </state>
       </provider>
     </entry>
