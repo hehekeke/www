@@ -49,7 +49,7 @@
                                                                                     <li ><a href="/service.php">服务</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/service.php">微巴商学院</a></li>
+                                                                                    <li><a href="/service.php">诺辉学院</a></li>
                                                                                     <li><a href="/service/agent.php">代理商支持</a></li>
                                                                                     <li><a href="/service/tour.php">全国巡讲支持</a></li>
                                                                                     <li><a href="/service/union.php">微信互粉通</a></li>
