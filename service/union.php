@@ -26,7 +26,7 @@
         </div>
     </div>
     <div class="area" style="padding-bottom:30px">
-        <img style="display:block" src="/assets/img/union.jpg">
+        <img style="display:block" src="http://www.weiba66.com/assets/img/union.jpg">
         <style>
             .union_cot{background:#206a8f; width:1000px; padding-bottom:80px; padding-top:30px}
             .union_cot>div{background:#2f7899; width:760px; line-height:30px; padding:20px; color:#fff; font-size:16px; margin:0 auto}
