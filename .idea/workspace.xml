@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="renrendian.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="renrendian.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/renrendian.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="32" selection-start="11137" selection-end="11137" vertical-scroll-proportion="0.47513813" vertical-offset="3409" max-vertical-offset="3952">
+            <state line="190" column="25" selection-start="10990" selection-end="10990" vertical-scroll-proportion="-7.178571" vertical-offset="3409" max-vertical-offset="3952">
               <folding />
             </state>
           </provider>
@@ -124,12 +124,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajaxApply.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ajaxApply.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajaxApply.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="16" selection-start="620" selection-end="631" vertical-scroll-proportion="-12.035714" vertical-offset="119" max-vertical-offset="722">
+            <state line="22" column="80" selection-start="630" selection-end="630" vertical-scroll-proportion="0.57194245" vertical-offset="100" max-vertical-offset="722">
               <folding>
-                <marker date="1428915059467" expanded="true" signature="455:611" placeholder="insert into ..." />
+                <marker date="1429003690375" expanded="true" signature="455:628" placeholder="insert into ..." />
+                <marker date="1429003690375" expanded="true" signature="455:622" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
@@ -184,7 +185,6 @@
         <option value="$PROJECT_DIR$/nuohui/nav.php" />
         <option value="$PROJECT_DIR$/SqlHelper.php" />
         <option value="$PROJECT_DIR$/SqlHelper.class.php" />
-        <option value="$PROJECT_DIR$/ajaxApply.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/service/agent.php" />
         <option value="$PROJECT_DIR$/nav.php" />
@@ -196,6 +196,7 @@
         <option value="$PROJECT_DIR$/admin/Application/Home/Controller/IndexController.class.php" />
         <option value="$PROJECT_DIR$/admin/Application/Common/Conf/config.php" />
         <option value="$PROJECT_DIR$/renrendian.php" />
+        <option value="$PROJECT_DIR$/ajaxApply.php" />
       </list>
     </option>
   </component>
@@ -279,6 +280,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Runtime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Runtime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -547,7 +596,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="722">
           <folding>
-            <marker date="1428915059467" expanded="true" signature="455:611" placeholder="insert into ..." />
+            <marker date="1429003690375" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429003690375" expanded="true" signature="455:622" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -618,15 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxApply.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="620" selection-end="631" vertical-scroll-proportion="-12.035714" vertical-offset="119" max-vertical-offset="722">
-          <folding>
-            <marker date="1428915059467" expanded="true" signature="455:611" placeholder="insert into ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/tour.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="39" selection-start="1351" selection-end="1351" vertical-scroll-proportion="-1.1071428" vertical-offset="363" max-vertical-offset="2432">
@@ -679,8 +720,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/renrendian.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="32" selection-start="11137" selection-end="11137" vertical-scroll-proportion="0.47513813" vertical-offset="3409" max-vertical-offset="3952">
+        <state line="190" column="25" selection-start="10990" selection-end="10990" vertical-scroll-proportion="-7.178571" vertical-offset="3409" max-vertical-offset="3952">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxApply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="80" selection-start="630" selection-end="630" vertical-scroll-proportion="0.57194245" vertical-offset="100" max-vertical-offset="722">
+          <folding>
+            <marker date="1429003690375" expanded="true" signature="455:628" placeholder="insert into ..." />
+            <marker date="1429003690375" expanded="true" signature="455:622" placeholder="insert into ..." />
+          </folding>
         </state>
       </provider>
     </entry>

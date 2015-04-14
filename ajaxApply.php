@@ -19,8 +19,8 @@ $company = $_POST['company'];
 $profession = $_POST['profession'];
 $remark = $_POST['remark'];
 
-$sql = "insert into user_info(id,username,position,mobile_number,company_name,notes) values
-        (null ,'$username','$position','$telphone','$company','$remark')";
+$sql = "insert into user_info(id,username,position,mobile_number,company_name,notes,apply_type) values
+        (null ,'$username','$position','$telphone','$company','$remark','人人店')";
 
 if (!mysql_query($sql,$con))
 {
