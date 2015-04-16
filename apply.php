@@ -13,7 +13,6 @@
     <link rel='stylesheet' href='http://www.weiba66.com/app/modules/pc/assets/css/reg.css'><script type="text/javascript" src="http://www.weiba66.com/app/modules/pc/assets/js/jquery.min.js"></script>
 </head>
 <body>
-
 <?php include_once("nav.php") ?>
 <div class="main">
     <div class="public-content clearfix">
