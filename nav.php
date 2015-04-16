@@ -56,11 +56,11 @@
                                                                             </ul>
                                 </div>
                             							</li>
-                                                                                    <li ><a href="/cases.php">案例</a>
+                                                                                    <li ><a href="/case.php">案例</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/cases.php">微网站案例</a></li>
-                                                                                    <li><a href="/cases/rrd.php"> 人人店案例</a></li>
+                                                                                    <li><a href="/case.php">微网站案例</a></li>
+                                                                                    <li><a href="/case/rrd.php"> 人人店案例</a></li>
                                                                                     <li><a href="/service.php#case">微营销案例</a></li>
                                                                             </ul>
                                 </div>
