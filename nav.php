@@ -8,7 +8,7 @@
             $("#first").addClass("on");
       }else if(ss == "products.php"){
           $("#second").addClass("on");
-      }else if(ss == "about.php" || ss == "/about/history.php" || ss == "/about/culture.php" || ss == "/about/jobs.php" || ss == "/about/contact.php" || ){
+      }else if(ss == "about.php" || ss == "/about/history.php" || ss == "/about/culture.php" || ss == "/about/jobs.php" || ss == "/about/contact.php"){
           $("#guanyu").addClass("on");
       }
 
