@@ -3,12 +3,11 @@
         $("li").removeClass("on");
         var url = window.location.href;
         ss = url.substr(26, url.length);
-        alert(ss);
       if(ss == "index.php"){
             $("#first").addClass("on");
       }else if(ss == "products.php"){
           $("#second").addClass("on");
-      }else if(ss == "about.php" || ss == "/about/history.php" || ss == "/about/culture.php" || ss == "/about/jobs.php" || ss == "/about/contact.php"){
+      }else if(ss == "about.php" || ss == "about/history.php" || ss == "about/culture.php" || ss == "about/jobs.php" || ss == "about/contact.php"){
           $("#guanyu").addClass("on");
       }
 
