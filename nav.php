@@ -86,7 +86,7 @@
                             							</li>
                                                                                     <li ><a href="/topics.php">专题</a>
                                                          							</li>
-                                                                                    <li ><a id="guanyu" href="/about.php">关于</a>
+                                                                                    <li id="guanyu"><a  href="/about.php">关于</a>
                                                                                          <div class="sun_list">
                                     <ul>
                                                                                     <li><a href="/about.php">关于我们</a></li>
