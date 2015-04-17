@@ -5,10 +5,12 @@
         ss = url.substr(26, url.length);
       if(ss == "index.php"){
             $("#first").addClass("on");
+      }else if(ss == "products.php"){
+          $("#second").addClass("on");
+      }else if(ss == "about.php" || ss == "/about/history.php" || ss == "/about/culture.php" || ss == "/about/jobs.php" || ss == "/about/contact.php" || ){
+          $("#guanyu").addClass("on");
       }
-        if(ss == "products.php"){
-            $("#second").addClass("on");
-        }
+
     });
 </script>
 <script>
@@ -84,7 +86,7 @@
                             							</li>
                                                                                     <li ><a href="/topics.php">专题</a>
                                                          							</li>
-                                                                                    <li ><a href="/about.php">关于</a>
+                                                                                    <li ><a class="guanyu" href="/about.php">关于</a>
                                                                                          <div class="sun_list">
                                     <ul>
                                                                                     <li><a href="/about.php">关于我们</a></li>
