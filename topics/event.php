@@ -25,7 +25,7 @@
 </head>
 <body>
 <!-- <div class='test'>1</div> -->
-<?php  include_once "../nav.php" ?> 
+<?php include_once "../nav.php" ?> 
 <script>
     $(function(){
         $('#nav>ul>li').hover(function(){
@@ -90,7 +90,7 @@
                 </li>
             </a>
                         <li>
-                    <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355487993&amp;site=qq&amp;menu=yes" target="_blank"
+                    <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355824320&amp;site=qq&amp;menu=yes" target="_blank"
                onClick="ga('send', 'event', 'TopicAdvisory', 'TopicQQ','专题售前');" class="clearfix">
                         <img src="http://www.weiba66.com/zt/weipaihao/images/q2.jpg">
                     </a>
@@ -111,7 +111,7 @@
                 </li>
             </a>
                         <li>
-                    <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355824320&amp;site=qq&amp;menu=yes" target="_blank"
+                    <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2355487993&amp;site=qq&amp;menu=yes" target="_blank"
                onClick="ga('send', 'event', 'TopicAdvisory', 'TopicQQ','专题售前');" class="clearfix">
                         <img src="http://www.weiba66.com/zt/weipaihao/images/q5.jpg">
                     </a>
