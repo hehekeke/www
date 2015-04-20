@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="renderer" content="webkit">
-    <title>微请柬-微信生意宝</title>
+    <title>微会员-微信生意宝</title>
     <meta name="keywords" content="微信企业号,微OA微信办公 移动OA 微信打卡 微信审批 移动协作平台">
     <meta name="description" content="微信微生意率先对接微信企业号，推出移动微信办公产品——微OA，以任务管理为核心，提供报销、请假、签到、邮箱、招聘、名片、通知、调研、投票、外勤、会议室、通讯录、日程等多项社交管理应用为一体的移动协作平台">
     <link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/base.css">
@@ -77,13 +77,13 @@
                         <dd  data-index="29">
                             <a href="/products/29.php#top">
                                 <span><img src='http://www.weiba66.com/app/modules/pc/assets/images/hot_03.png'></span>                                        超级加油</a></dd>
-                        <dd  data-index="21">
+                        <dd class="on"  data-index="21">
                             <a href="/products/21.php#top">
                                 <span><img src='http://www.weiba66.com/app/modules/pc/assets/images/hot_03.png'></span>                                        微会员</a></dd>
                         <dd  data-index="5">
                             <a href="/products/5.php#top">
                                 <span>NEW</span>                                                                                微签到</a></dd>
-                        <dd class="on"  data-index="11">
+                        <dd  data-index="11">
                             <a href="/products/11.php#top">
                                 <span>NEW</span>                                                                                微请柬</a></dd>
                         <dd  data-index="17">
@@ -181,17 +181,20 @@
         </div>
         <div class="pro_right fr">
             <div class="pro_right_top mb10 clearfix">
-                <h3 class="fl">微请柬</h3>
-                <a href="http://yuntv.letv.com/bcloud.php?uu=26a8cba9e6&vu=e4c39975a2&auto_play=1&gpcflag=1&width=640&height=360" class="fr">产品视频</a>
-                <a data-href="http://t.cn/R78qeDX" class="fr qrcode">码上体验</a>
+                <h3 class="fl">微会员</h3>
+                <a href="http://yuntv.letv.com/bcloud.php?uu=26a8cba9e6&vu=ff1041fac1&auto_play=1&gpcflag=1&width=640&height=360" class="fr">产品视频</a>
+                <a data-href="http://wxsyb.bama555.com/vip?woaibeijingtiananmen=mp.weixin.qq.com" class="fr qrcode">码上体验</a>
             </div>
             <div class="pro_right_main">
-                <div class="tc"><img src="http://www.weiba66.com/data/images/1/201410/dbbbdbf637fdf007a8a77328e546b7c7.png" alt="微请柬"></div>
+                <div class="tc"><img src="http://www.weiba66.com/data/images/1/201411/e62741ab41a8b6923361eda8a62bcdfb.jpg" alt="微会员"></div>
                 <div><p>    <p>
-                        基于微信广泛传播的商务邀请函，契合移动<span style="line-height:1.5;">互联网时代的微请柬是您商务、会议邀请的</span><span style="line-height:1.5;">必备之选。</span>
+                        发卡零成本，携带方便，同时实现会员储值和积分等功能，这些功能还够吗？
                     </p>
                     <p>
-                        <span style="line-height:1.5;">点击“码上体验“扫码体验或微信关注“wxsyb88”回复“<span style="background-color:#E53333;color:#FFFFFF;"><strong>请柬</strong></span>”体验</span>
+                        当然不够！微会员又上新功能——新增条码功能（条形码、二维码）！商家只要用原有实体卡扫描枪扫描，即可验证会员卡信息。
+                    </p>
+                    <p>
+                        <span style="line-height:1.5;">点击“码上体验“扫码体验或微信关注“nuohuikeji”回复“</span><span style="line-height:1.5;color:#FFFFFF;background-color:#E53333;"><strong>会员卡</strong></span><span style="line-height:1.5;">”体验</span>
                     </p></p></div>
             </div>
         </div>

@@ -1,11 +1,11 @@
 
-<!doctype html>
-<html>
+<!doctype php>
+<php>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="renderer" content="webkit">
-    <title>微请柬-微信生意宝</title>
+    <title>微政务-微信生意宝</title>
     <meta name="keywords" content="微信企业号,微OA微信办公 移动OA 微信打卡 微信审批 移动协作平台">
     <meta name="description" content="微信微生意率先对接微信企业号，推出移动微信办公产品——微OA，以任务管理为核心，提供报销、请假、签到、邮箱、招聘、名片、通知、调研、投票、外勤、会议室、通讯录、日程等多项社交管理应用为一体的移动协作平台">
     <link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/base.css">
@@ -26,6 +26,7 @@
 <body>
 <!-- <div class='test'>1</div> -->
 <?php include_once("../nav.php")?>
+
 <div class="main">
     <div class="banner" style="background-image:url(http://www.weiba66.com/data/images/1/201411/7507d3540e4973ffc3f6cb39eacbe937.png)"></div>
     <div class="pro_tab area clearfix">
@@ -50,8 +51,8 @@
                         <dd><a target="_blank" href="/topics/hotel.php">订房易</a></dd>
                     </dl>
                 </li>
-                <li ><div class="option_zs">展示型</div>
-                    <dl >
+                <li class='on'><div class="option_zs">展示型</div>
+                    <dl style='display:block'>
                         <dd  data-index="1">
                             <a href="/products/1.php#top">
                                 <span>NEW</span>                                                                                微官网</a></dd>
@@ -61,7 +62,7 @@
                         <dd  data-index="14">
                             <a href="/products/14.php#top">
                                 <span><img src='http://www.weiba66.com/app/modules/pc/assets/images/hot_03.png'></span>                                        微信喜帖</a></dd>
-                        <dd  data-index="24">
+                        <dd class="on"  data-index="24">
                             <a href="/products/24.php#top">
                                 <span>NEW</span>                                                                                微政务</a></dd>
                         <dd  data-index="22">
@@ -72,8 +73,8 @@
                                 全景720立体展示</a></dd>
                     </dl>
                 </li>
-                <li class='on'><div class="option_tg">推广型</div>
-                    <dl style='display:block'>
+                <li ><div class="option_tg">推广型</div>
+                    <dl >
                         <dd  data-index="29">
                             <a href="/products/29.php#top">
                                 <span><img src='http://www.weiba66.com/app/modules/pc/assets/images/hot_03.png'></span>                                        超级加油</a></dd>
@@ -83,7 +84,7 @@
                         <dd  data-index="5">
                             <a href="/products/5.php#top">
                                 <span>NEW</span>                                                                                微签到</a></dd>
-                        <dd class="on"  data-index="11">
+                        <dd  data-index="11">
                             <a href="/products/11.php#top">
                                 <span>NEW</span>                                                                                微请柬</a></dd>
                         <dd  data-index="17">
@@ -181,17 +182,17 @@
         </div>
         <div class="pro_right fr">
             <div class="pro_right_top mb10 clearfix">
-                <h3 class="fl">微请柬</h3>
-                <a href="http://yuntv.letv.com/bcloud.php?uu=26a8cba9e6&vu=e4c39975a2&auto_play=1&gpcflag=1&width=640&height=360" class="fr">产品视频</a>
-                <a data-href="http://t.cn/R78qeDX" class="fr qrcode">码上体验</a>
+                <h3 class="fl">微政务</h3>
+                <a href="http://yuntv.letv.com/bcloud.php?uu=26a8cba9e6&vu=c28734efe8&auto_play=1&gpcflag=1&width=640&height=360" class="fr">产品视频</a>
+                <a data-href="http://t.cn/R78uNML" class="fr qrcode">码上体验</a>
             </div>
             <div class="pro_right_main">
-                <div class="tc"><img src="http://www.weiba66.com/data/images/1/201410/dbbbdbf637fdf007a8a77328e546b7c7.png" alt="微请柬"></div>
+                <div class="tc"><img src="http://www.weiba66.com/data/images/1/201410/48ec7518f140081ce9ebf0b0226e9a4e.png" alt="微政务"></div>
                 <div><p>    <p>
-                        基于微信广泛传播的商务邀请函，契合移动<span style="line-height:1.5;">互联网时代的微请柬是您商务、会议邀请的</span><span style="line-height:1.5;">必备之选。</span>
+                        诉求发布、受理查询、互动沟通；<span style="line-height:1.5;">微政务，最少的成本、最高的收益，</span><span style="line-height:1.5;">让政府听到百姓声音；</span><span style="line-height:1.5;">构建政府与百姓沟通最直接的桥梁！</span>
                     </p>
                     <p>
-                        <span style="line-height:1.5;">点击“码上体验“扫码体验或微信关注“wxsyb88”回复“<span style="background-color:#E53333;color:#FFFFFF;"><strong>请柬</strong></span>”体验</span>
+                        点击“码上体验“扫码体验或微信关注“nuohuikeji”回复”<span style="background-color:#E53333;color:#FFFFFF;"><strong>微政务</strong></span>“体验
                     </p></p></div>
             </div>
         </div>
@@ -202,6 +203,16 @@
     <div id="output"><div id="qrcode_img"></div><p class="tc f14 p10">微信扫一扫，立即体验</p></div>
 </div>
 <?php include_once("../footer.php")?>
+
+
+
+
+
+
+
+
+
+
 <!--
 <script language="javascript" src="http://dbt.zoosnet.net/LR/servkind.aspx?id=DBT53393103"></script>
 <script language=javascript>
@@ -243,16 +254,16 @@ function outputServKindlist(name,id,state)
 }
 
 //以下不要修改
-var LiveReceptionCode_need_help_html='<table width="'+LR_List_w+'" border="0" cellpadding="0" cellspacing="0"><tr><td><img src="'+LR_List_upimg+'" width="'+LR_List_w+'" id="LiveReceptionCode_need_help" name="LiveReceptionCode_need_help"/></td></tr><tr><td style="background:url('+LR_List_bgimg+')"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td width="'+LR_List_left+'" height="0"></td><td></td></tr>';
+var LiveReceptionCode_need_help_php='<table width="'+LR_List_w+'" border="0" cellpadding="0" cellspacing="0"><tr><td><img src="'+LR_List_upimg+'" width="'+LR_List_w+'" id="LiveReceptionCode_need_help" name="LiveReceptionCode_need_help"/></td></tr><tr><td style="background:url('+LR_List_bgimg+')"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td width="'+LR_List_left+'" height="0"></td><td></td></tr>';
 if(typeof(ServerKindArray) != 'undefined')
 {
-	
+
 	for(i=0;i<ServerKindArray.length;i++)
 	{
-		LiveReceptionCode_need_help_html+=outputServKindlist(ServerKindArray[i].name,ServerKindArray[i].id,ServerKindArray[i].state);
+		LiveReceptionCode_need_help_php+=outputServKindlist(ServerKindArray[i].name,ServerKindArray[i].id,ServerKindArray[i].state);
 	}
 }
-LiveReceptionCode_need_help_html+='</table></td></tr><tr><td><img src="'+LR_List_downimg+'"  width="'+LR_List_w+'" /></td></tr></table>';
+LiveReceptionCode_need_help_php+='</table></td></tr><tr><td><img src="'+LR_List_downimg+'"  width="'+LR_List_w+'" /></td></tr></table>';
 
 </script>
 <script language="javascript" src="http://dbt.zoosnet.net/JS/LsJS.aspx?siteid=DBT53393103"></script>
@@ -288,4 +299,4 @@ LiveReceptionCode_need_help_html+='</table></td></tr><tr><td><img src="'+LR_List
     })
 </script>
 </body>
-</html>
+</php>

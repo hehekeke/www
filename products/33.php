@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="renderer" content="webkit">
-    <title>微请柬-微信生意宝</title>
+    <title>微商城-微信生意宝</title>
     <meta name="keywords" content="微信企业号,微OA微信办公 移动OA 微信打卡 微信审批 移动协作平台">
     <meta name="description" content="微信微生意率先对接微信企业号，推出移动微信办公产品——微OA，以任务管理为核心，提供报销、请假、签到、邮箱、招聘、名片、通知、调研、投票、外勤、会议室、通讯录、日程等多项社交管理应用为一体的移动协作平台">
     <link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/base.css">
@@ -72,8 +72,8 @@
                                 全景720立体展示</a></dd>
                     </dl>
                 </li>
-                <li class='on'><div class="option_tg">推广型</div>
-                    <dl style='display:block'>
+                <li ><div class="option_tg">推广型</div>
+                    <dl >
                         <dd  data-index="29">
                             <a href="/products/29.php#top">
                                 <span><img src='http://www.weiba66.com/app/modules/pc/assets/images/hot_03.png'></span>                                        超级加油</a></dd>
@@ -83,7 +83,7 @@
                         <dd  data-index="5">
                             <a href="/products/5.php#top">
                                 <span>NEW</span>                                                                                微签到</a></dd>
-                        <dd class="on"  data-index="11">
+                        <dd  data-index="11">
                             <a href="/products/11.php#top">
                                 <span>NEW</span>                                                                                微请柬</a></dd>
                         <dd  data-index="17">
@@ -149,9 +149,9 @@
                                 七夕跳跳跳</a></dd>
                     </dl>
                 </li>
-                <li ><div class="option_cj">成交型</div>
-                    <dl >
-                        <dd  data-index="33">
+                <li class='on'><div class="option_cj">成交型</div>
+                    <dl style='display:block'>
+                        <dd class="on"  data-index="33">
                             <a href="/products/33.php#top">
                                 <span><img src='http://www.weiba66.com/app/modules/pc/assets/images/hot_03.png'></span>                                        微商城</a></dd>
                         <dd  data-index="34">
@@ -181,17 +181,27 @@
         </div>
         <div class="pro_right fr">
             <div class="pro_right_top mb10 clearfix">
-                <h3 class="fl">微请柬</h3>
-                <a href="http://yuntv.letv.com/bcloud.php?uu=26a8cba9e6&vu=e4c39975a2&auto_play=1&gpcflag=1&width=640&height=360" class="fr">产品视频</a>
-                <a data-href="http://t.cn/R78qeDX" class="fr qrcode">码上体验</a>
+                <h3 class="fl">微商城</h3>
+                <a href="/topics/wscbzb.php" class="fr">查看专题</a>
+                <a href="http://yuntv.letv.com/bcloud.php?uu=26a8cba9e6&vu=1bd89ae0d9&auto_play=1&gpcflag=1&width=640&height=360" class="fr">产品视频</a>
+                <a data-href="http://wxsyb.shop.bama555.com/?woaibeijingtiananmen=mp.weixin.qq.com&scope=snsapi_base&mark=743018eb9bbc3f18cb27ee037aefce20&public_id=oQGD2tyiIL4Mi6SWBR3WXD-SftzM" class="fr qrcode">码上体验</a>
             </div>
             <div class="pro_right_main">
-                <div class="tc"><img src="http://www.weiba66.com/data/images/1/201410/dbbbdbf637fdf007a8a77328e546b7c7.png" alt="微请柬"></div>
+                <div class="tc"><img src="http://www.weiba66.com/data/images/1/201411/79c98acea0f787d287952ebed6404fdf.png" alt="微商城"></div>
                 <div><p>    <p>
-                        基于微信广泛传播的商务邀请函，契合移动<span style="line-height:1.5;">互联网时代的微请柬是您商务、会议邀请的</span><span style="line-height:1.5;">必备之选。</span>
+                        <span style="line-height:1.5;">在微信公众号里开网店，</span><span style="line-height:1.5;">在线浏览、选购商品、加入购物车、支付、填写配送地址，实现微信在线购物，</span><span style="line-height:1.5;">通过支付宝付款；保障企业和顾客安全和利益。</span>
                     </p>
                     <p>
-                        <span style="line-height:1.5;">点击“码上体验“扫码体验或微信关注“wxsyb88”回复“<span style="background-color:#E53333;color:#FFFFFF;"><strong>请柬</strong></span>”体验</span>
+                        <span style="line-height:1.5;"></span>
+                    </p>
+                    <p>
+                        <strong>优势</strong>：<span style="line-height:1.5;">在微信之中建立微商城，让自己的产品直接面对6亿微信用户；同时，更有两日进斗金！</span>
+                    </p>
+                    <p>
+                        <span style="line-height:1.5;">点击“码上体验”扫码体验或关注微信“wxsyb88”回复”<strong><span style="background-color:#E53333;color:#FFFFFF;">微商城</span></strong>“体验</span>
+                    </p>
+                    <p>
+                        <br />
                     </p></p></div>
             </div>
         </div>
@@ -202,6 +212,16 @@
     <div id="output"><div id="qrcode_img"></div><p class="tc f14 p10">微信扫一扫，立即体验</p></div>
 </div>
 <?php include_once("../footer.php")?>
+
+
+
+
+
+
+
+
+
+
 <!--
 <script language="javascript" src="http://dbt.zoosnet.net/LR/servkind.aspx?id=DBT53393103"></script>
 <script language=javascript>
@@ -275,7 +295,7 @@ LiveReceptionCode_need_help_html+='</table></td></tr><tr><td><img src="'+LR_List
             var render="table"
         }else{
             var render="canvas";}
-        $('#qrcode_img').html('');
+        $('#qrcode_img').php('');
         $('#qrcode_img').qrcode({
             render   : render,//设置渲染方式
             width       : 300,     //设置宽度
