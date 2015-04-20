@@ -10,7 +10,6 @@
       }else if(ss == "about.php" || ss == "about/history.php" || ss == "about/culture.php" || ss == "about/jobs.php" || ss == "about/contact.php"){
           $("#guanyu").addClass("on");
       }
-
     });
 </script>
 <script>

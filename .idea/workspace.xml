@@ -23,59 +23,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nav.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nav.php">
+      <file leaf-file-name="FixedassetsController.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/Controller/FixedassetsController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="99" selection-start="6331" selection-end="6331" vertical-scroll-proportion="1.9182156" vertical-offset="640" max-vertical-offset="2090">
+            <state line="284" column="0" selection-start="10212" selection-end="10212" vertical-scroll-proportion="0.0" vertical-offset="5396" max-vertical-offset="7410">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/contact.php">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/index/index.html">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="52" selection-start="1792" selection-end="1792" vertical-scroll-proportion="-6.25" vertical-offset="509" max-vertical-offset="1653">
+            <state line="83" column="52" selection-start="2668" selection-end="2680" vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2166">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/index/a.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="11" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="304">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/update.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="38" selection-start="745" selection-end="745" vertical-scroll-proportion="-12.892858" vertical-offset="114" max-vertical-offset="836">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weizhuli.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topics/weizhuli.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="25" selection-start="1380" selection-end="1380" vertical-scroll-proportion="-11.678572" vertical-offset="262" max-vertical-offset="3173">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weipaihao.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topics/weipaihao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="228">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/11.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="188" column="47" selection-start="11982" selection-end="11982" vertical-scroll-proportion="-2.0119047" vertical-offset="3403" max-vertical-offset="5624">
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#dl#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#p#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#2;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#p#2;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
+      <file leaf-file-name="100.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/products/100.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="41" selection-start="1464" selection-end="1464" vertical-scroll-proportion="-4.0" vertical-offset="477" max-vertical-offset="4294">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="culture.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/culture.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="41" selection-start="1544" selection-end="1544" vertical-scroll-proportion="-12.892858" vertical-offset="228" max-vertical-offset="4009">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="history.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/history.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="37" selection-start="1532" selection-end="1532" vertical-scroll-proportion="-10.785714" vertical-offset="287" max-vertical-offset="9899">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jobs.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/jobs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="41" selection-start="1541" selection-end="1545" vertical-scroll-proportion="-2.0119047" vertical-offset="420" max-vertical-offset="2565">
+            <state line="205" column="33" selection-start="12714" selection-end="12714" vertical-scroll-proportion="-1.6119096" vertical-offset="4680" max-vertical-offset="5662">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#dl#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#2;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,24 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/system/xitongcanshu_update.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/system/xitongcanshu_RoleAdd.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_search.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_money.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/system/device_type_list.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_num.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/index/index.html" />
-        <option value="$PROJECT_DIR$/nuohui/products.php" />
-        <option value="$PROJECT_DIR$/nuohui/trade/index.php" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/Purchase/add.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/Purchase/list.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/Purchase/caigoubaojia.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/Purchase/caigoumingxi.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/Controller/PurchaseController.class.php" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/Controller/AgreementController.class.php" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/list.html" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/Controller/FixedassetsController.class.php" />
-        <option value="$PROJECT_DIR$/lunwen/Application/Home/Controller/ManagerMoneyController.class.php" />
         <option value="$PROJECT_DIR$/nuohui/topics/fxb.php" />
         <option value="$PROJECT_DIR$/nuohui/topics/zhidahao.php" />
         <option value="$PROJECT_DIR$/nuohui/topics/qiyeweixin.php" />
@@ -142,6 +154,24 @@
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/about/contact.php" />
         <option value="$PROJECT_DIR$/nav.php" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/add.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/update.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/update_data.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/list.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/Tongji/list.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/Tongji/is_used.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/Controller/ManagerMoneyController.class.php" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_search.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_money.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_num.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/Purchase/cgbj_detail.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/Controller/PurchaseController.class.php" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/Controller/FixedassetsController.class.php" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/index/index.html" />
+        <option value="$PROJECT_DIR$/lunwen/Application/Home/View/index/a.html" />
+        <option value="$PROJECT_DIR$/topics/weizhuli.php" />
+        <option value="$PROJECT_DIR$/products/11.php" />
+        <option value="$PROJECT_DIR$/products/100.php" />
       </list>
     </option>
   </component>
@@ -178,7 +208,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,12 +236,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
+              <option name="myItemId" value="topics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpworkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +303,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -304,111 +348,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/Application/Common/Conf/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="342" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/agent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="39" selection-start="1190" selection-end="1194" vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="1748" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/tour.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="39" selection-start="1351" selection-end="1351" vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="2432" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxApply.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="28" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="722" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="9" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="152" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/Application/Home/View/Index/admin_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="19" selection-start="873" selection-end="873" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="3439" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renrendian.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="190" column="25" selection-start="10990" selection-end="10990" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3952" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="39" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="6099" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/union.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="16" selection-start="1901" selection-end="1901" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="1121" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user_info.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/Application/Home/View/Index/admin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="32" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1710" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/Application/Home/Controller/IndexController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="204" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/Application/Common/Conf/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="342" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/agent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="39" selection-start="1190" selection-end="1194" vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="1748" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/tour.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="39" selection-start="1351" selection-end="1351" vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="2432" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxApply.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="22" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="722" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="24" selection-start="2051" selection-end="2051" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2052" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renrendian.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="6346" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apply.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="47" selection-start="18328" selection-end="18334" vertical-scroll-proportion="0.0" vertical-offset="6194" max-vertical-offset="6859" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="0" selection-start="9951" selection-end="9951" vertical-scroll-proportion="0.0" vertical-offset="2280" max-vertical-offset="3838" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="5757" max-vertical-offset="15998" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/products.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="912" max-vertical-offset="4427" />
@@ -501,91 +440,198 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="0" selection-start="9951" selection-end="9951" vertical-scroll-proportion="0.0" vertical-offset="2508" max-vertical-offset="3838">
-          <folding />
-        </state>
+        <state line="133" column="0" selection-start="9951" selection-end="9951" vertical-scroll-proportion="0.0" vertical-offset="2508" max-vertical-offset="3838" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apply.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="6840">
-          <folding />
-        </state>
+        <state line="14" column="6" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="6840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="828" column="46" selection-start="54626" selection-end="54626" vertical-scroll-proportion="0.0" vertical-offset="6310" max-vertical-offset="15998">
-          <folding />
-        </state>
+        <state line="828" column="46" selection-start="54626" selection-end="54626" vertical-scroll-proportion="0.0" vertical-offset="6310" max-vertical-offset="15998" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/Application/Common/Conf/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="323">
-          <folding />
-        </state>
+        <state line="6" column="20" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/join.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="36" selection-start="9719" selection-end="9719" vertical-scroll-proportion="0.0" vertical-offset="3498" max-vertical-offset="8892">
-          <folding>
-            <marker date="1429249533153" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="193" column="36" selection-start="9719" selection-end="9719" vertical-scroll-proportion="0.0" vertical-offset="3498" max-vertical-offset="8892" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="35" selection-start="151" selection-end="151" vertical-scroll-proportion="-0.0" vertical-offset="114" max-vertical-offset="3420">
-          <folding />
-        </state>
+        <state line="6" column="35" selection-start="151" selection-end="151" vertical-scroll-proportion="-0.0" vertical-offset="114" max-vertical-offset="3420" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/history.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="37" selection-start="1532" selection-end="1532" vertical-scroll-proportion="-10.785714" vertical-offset="287" max-vertical-offset="9899">
-          <folding />
-        </state>
+        <state line="31" column="37" selection-start="1532" selection-end="1532" vertical-scroll-proportion="0.5345133" vertical-offset="287" max-vertical-offset="9899" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/culture.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="41" selection-start="1544" selection-end="1544" vertical-scroll-proportion="-12.892858" vertical-offset="228" max-vertical-offset="4009">
-          <folding />
-        </state>
+        <state line="31" column="41" selection-start="1544" selection-end="1544" vertical-scroll-proportion="0.63893807" vertical-offset="228" max-vertical-offset="4009" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="41" selection-start="1464" selection-end="1464" vertical-scroll-proportion="-4.0" vertical-offset="477" max-vertical-offset="4294">
-          <folding />
-        </state>
+        <state line="31" column="41" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.19823009" vertical-offset="477" max-vertical-offset="4294" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/jobs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="41" selection-start="1541" selection-end="1545" vertical-scroll-proportion="-2.0119047" vertical-offset="420" max-vertical-offset="2565">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="31" column="41" selection-start="1541" selection-end="1545" vertical-scroll-proportion="0.29911503" vertical-offset="420" max-vertical-offset="2565" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="52" selection-start="1792" selection-end="1792" vertical-scroll-proportion="-6.25" vertical-offset="509" max-vertical-offset="1653">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="36" column="52" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="1653" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="99" selection-start="6331" selection-end="6331" vertical-scroll-proportion="1.9182156" vertical-offset="640" max-vertical-offset="2090">
+        <state line="11" column="7" selection-start="483" selection-end="483" vertical-scroll-proportion="0.3699115" vertical-offset="0" max-vertical-offset="2071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/update_data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="115" selection-start="743" selection-end="760" vertical-scroll-proportion="0.3699115" vertical-offset="247" max-vertical-offset="1178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="122" selection-start="1292" selection-end="1309" vertical-scroll-proportion="0.30265486" vertical-offset="399" max-vertical-offset="1520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/Tongji/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="30" selection-start="684" selection-end="684" vertical-scroll-proportion="0.7889273" vertical-offset="0" max-vertical-offset="1007" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/Tongji/is_used.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="30" selection-start="1463" selection-end="1463" vertical-scroll-proportion="-12.892858" vertical-offset="570" max-vertical-offset="1767" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_num.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="13" selection-start="1562" selection-end="1562" vertical-scroll-proportion="1.5121107" vertical-offset="0" max-vertical-offset="1634" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_money.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="46" selection-start="1441" selection-end="1441" vertical-scroll-proportion="0.47404844" vertical-offset="486" max-vertical-offset="1577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/ManagerMoney/Manager_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="5" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.2301038" vertical-offset="627" max-vertical-offset="1406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/Controller/ManagerMoneyController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="38" selection-start="2689" selection-end="2689" vertical-scroll-proportion="0.5735027" vertical-offset="1166" max-vertical-offset="5225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/Purchase/cgbj_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="31" selection-start="1885" selection-end="1885" vertical-scroll-proportion="-17.642857" vertical-offset="399" max-vertical-offset="1159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="31" selection-start="1742" selection-end="1746" vertical-scroll-proportion="-13.571428" vertical-offset="475" max-vertical-offset="1159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/Purchase/caigoubaojia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="89" selection-start="533" selection-end="592" vertical-scroll-proportion="-11.464286" vertical-offset="97" max-vertical-offset="703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/Controller/PurchaseController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="95" selection-start="4927" selection-end="4941" vertical-scroll-proportion="0.65055764" vertical-offset="2177" max-vertical-offset="3420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/Controller/DeviceController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/Controller/FixedassetsController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="284" column="0" selection-start="10212" selection-end="10212" vertical-scroll-proportion="0.0" vertical-offset="5396" max-vertical-offset="7410">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/index/index.html">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="52" selection-start="2668" selection-end="2680" vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/index/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="304">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunwen/Application/Home/View/fixedassets/update.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="38" selection-start="745" selection-end="745" vertical-scroll-proportion="-12.892858" vertical-offset="114" max-vertical-offset="836">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topics/weizhuli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="25" selection-start="1380" selection-end="1380" vertical-scroll-proportion="-11.678572" vertical-offset="262" max-vertical-offset="3173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topics/weipaihao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/11.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="188" column="47" selection-start="11982" selection-end="11982" vertical-scroll-proportion="-2.0119047" vertical-offset="3403" max-vertical-offset="5624">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dl#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#2;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#2;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/100.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="33" selection-start="12714" selection-end="12714" vertical-scroll-proportion="-1.6119096" vertical-offset="4680" max-vertical-offset="5662">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dl#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#2;n#div#1;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
