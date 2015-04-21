@@ -37,12 +37,12 @@
             <div class="top_7dgn"><img src="http://www.weiba66.com/zt/woa//images/top_7dgn.png"></div>
             <ul class="gn_ul">
                 <li class="dq">1<img src="http://www.weiba66.com/zt/woa//images/jt.jpg"></li>
-                <li>2<img src="http://www.weiba66.com/zt/woa//images/jt.jpg"></li>
-                <li>3<img src="http://www.weiba66.com/zt/woa//images/jt.jpg"></li>
-                <li>4<img src="http://www.weiba66.com/zt/woa//images/jt.jpg"></li>
-                <li>5<img src="http://www.weiba66.com/zt/woa//images/jt.jpg"></li>
-                <li>6<img src="http://www.weiba66.com/zt/woa//images/jt.jpg"></li>
-                <li>7<img src="http://www.weiba66.com/zt/woa//images/jt.jpg"></li>
+                <li>2<img src="http://www.weiba66.com/zt/woa/images/jt.jpg"></li>
+                <li>3<img src="http://www.weiba66.com/zt/woa/images/jt.jpg"></li>
+                <li>4<img src="http://www.weiba66.com/zt/woa/images/jt.jpg"></li>
+                <li>5<img src="http://www.weiba66.com/zt/woa/images/jt.jpg"></li>
+                <li>6<img src="http://www.weiba66.com/zt/woa/images/jt.jpg"></li>
+                <li>7<img src="http://www.weiba66.com/zt/woa/images/jt.jpg"></li>
             </ul>
             <div class="zstx">
                 <p class="dq">员工身份识别，微信设置员工权限</p>
