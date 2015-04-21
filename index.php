@@ -8,12 +8,9 @@
 <title>诺辉科技-微网站,微信网站专业开发商,微信营销领先品牌</title>
 <meta name="keywords" content="诺辉科技,微网站,微信营销,微网站开发,微网站代理,微网站制作,微信网站,微信3G网站,微信APP,企业微信,企业微网站,微信公众号,微信互动">
 <meta name="description" content="天津市诺辉科技发展有限公司可以帮助企业快速通过微信获得生意，推广企业品牌。">
-<link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/base.css">
-<link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/common.css">
+
 <link rel='stylesheet' href='http://www.weiba66.com/app/modules/pc/assets/css/index.css'>
 <link rel='stylesheet' href='http://www.weiba66.com/app/modules/pc/assets/css/trade.css'>
-<script type="text/javascript" src="http://www.weiba66.com/app/modules/pc/assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.weiba66.com/assets/js/jquery.carousel.js"></script>
 </head>
 
 <body>

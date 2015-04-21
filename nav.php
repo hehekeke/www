@@ -1,3 +1,8 @@
+<link rel="stylesheet" type="text/css" href="/res/qt/base.css">
+<link rel="stylesheet" type="text/css" href="/res/qt/common.css">
+<script type="text/javascript" src="/res/lib/js/jquery.min.js"></script>
+<script type="text/javascript" src="/res/lib/js/jquery.carousel.js"></script>
+
 <script>
     $(function(){
         $("li").removeClass("on");

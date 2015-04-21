@@ -8,9 +8,9 @@
     <title>联系我们-微信生意宝</title>
     <meta name="keywords" content="微信生意宝电话,微巴信息电话">
     <meta name="description" content="微信生意宝是由杭州微巴信息技术有限公司研发的一款基于微信营销的产品，可以帮助企业快速通过微信获得生意，推广企业品牌">
-    <link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/base.css">
-    <link rel="stylesheet" type="text/css" href="http://www.weiba66.com/app/modules/pc/assets/css/common.css">
-    <link rel='stylesheet' href='http://www.weiba66.com/app/modules/pc/assets/css/themes.css'><script type="text/javascript" src="http://www.weiba66.com/app/modules/pc/assets/js/jquery.min.js"></script>
+
+    <link rel='stylesheet' href='http://www.weiba66.com/app/modules/pc/assets/css/themes.css'>
+    
     <style type="text/css">
         <!--
         .lr_servkind_tr1 {}
