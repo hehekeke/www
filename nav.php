@@ -76,7 +76,7 @@
                                                                                     <li ><a href="/news.php">资讯</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/news/wbgd.php">微巴观点</a></li>
+                                                                                    <li><a href="/news/wbgd.php">诺辉观点</a></li>
                                                                                     <li><a href="/news.php">产品公告</a></li>
                                                                                     <li><a href="/news/2.php">媒体报道</a></li>
                                                                                     <li><a href="/news/6.php">政府考察</a></li>
