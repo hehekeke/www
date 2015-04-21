@@ -60,7 +60,7 @@
                                                                                     <li ><a href="/case.php">案例</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/case.php">微网站案例</a></li>
+                                                                                    <li><a href="/case.php">成功案例</a></li>
                                                                                     <li><a href="/case/rrd.php"> 人人店案例</a></li>
                                                                                     <li><a href="/service.php#case">微营销案例</a></li>
                                                                             </ul>
@@ -73,13 +73,12 @@
                                                                             </ul>
                                 </div>
                             							</li>
-                                                                                    <li ><a href="/news.php">资讯</a>
+                                                                                    <li ><a href="/app.php">政务App</a>
                                                                                          <div class="sun_list">
                                     <ul>
-                                                                                    <li><a href="/news/wbgd.php">诺辉观点</a></li>
-                                                                                    <li><a href="/news.php">产品公告</a></li>
-                                                                                    <li><a href="/news/2.php">媒体报道</a></li>
-                                                                                    <li><a href="/news/6.php">政府考察</a></li>
+                                                                                    <li><a href="/app/jianjie.php">政务App简介</a></li>
+                                                                                    <li><a href="/app/kehu.php">合作客户</a></li>
+
                                                                             </ul>
                                 </div>
                             							</li>
