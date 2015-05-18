@@ -33,7 +33,9 @@
     <div class="head_bg">
         <div class="area clearfix">
 			<!--<div class="logo"><a href="/" title="微信生意宝"><em>微信生意宝</em><img src="/data/images/1/201410/22e7eca40e3f704af1e47c1bec7912e1.jpg" alt="微信生意宝"></a></div>-->
-						<div class="fl" style="width:340px; height:80px"><embed src="http://www.weiba66.com/assets/img/logo.swf" width="340" height="80"></embed></div>
+						<div class="fl" style="width:340px; height:80px">
+                           <a href="http://www.nuohuikeji.com"><img src="images/logo.png"></a>
+                        </div>
 			            <div id="nav" class="nav fr" style="width:760px">
                 <ul class="clearfix">
 
